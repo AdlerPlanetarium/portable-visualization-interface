@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Media Controller Login</title>
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <main class="login-page">
+    <form id="loginForm" class="login-card">
+      <h1>Media Controller</h1>
+      <p>Enter the presenter password.</p>
+      <input id="password" type="password" placeholder="Password" autocomplete="current-password" autofocus />
+      <button type="submit" class="control-button">Log In</button>
+      <div id="loginError" class="login-error"></div>
+    </form>
+  </main>
+  <script>
+    document.getElementById('loginForm').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const password = document.getElementById('password').value;
+      const loginError = document.getElementById('loginError');
+      loginError.textContent = '';
+      try {
+        const response = await fetch('/api/login', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password })
+        });
+        if (!response.ok) throw new Error('Bad password');
+        window.location.href = '/controller/';
+      } catch (err) {
+        loginError.textContent = 'Login failed.';
+      }
+    });
+  </script>
+</body>
+</html>

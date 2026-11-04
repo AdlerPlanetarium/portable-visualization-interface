@@ -1,0 +1,3461 @@
+{
+  "defaultMediaId": "404",
+  "folders": [
+    {
+      "id": "Adler",
+      "label": "Adler",
+      "items": [
+        {
+          "id": "0",
+          "mediaPath": "/media/Aquarius_19jul2018_fadeinout.mp4",
+          "thumbnailPath": "/thumbs/Aquarius19jul2018fadeinout_frame.png",
+          "description": "Animation of the path of the Aquarius project asteroid through our solar system on its way to impact with Earth",
+          "type": "video",
+          "title": "Path of Aquarius Project Asteroid"
+        },
+        {
+          "id": "1",
+          "mediaPath": "/media/AMSEvent_454-2017-dashcam.mp4",
+          "thumbnailPath": "/thumbs/AMSEvent4542017dashcam_frame.png",
+          "description": "Dashcam video of the Aquarius project meteor as a fireball.",
+          "type": "video",
+          "title": "Dashcam Footage of Aquarius Project Asteroid (1)"
+        },
+        {
+          "id": "2",
+          "mediaPath": "/media/Feb.6,2017meteor-eastcamera.mp4",
+          "thumbnailPath": "/thumbs/Feb_frame.png",
+          "description": "Video of the Aquarius Project meteor.",
+          "type": "video",
+          "title": "Camera Footage of Aquarius Project Asteroid"
+        },
+        {
+          "id": "3",
+          "mediaPath": "/media/MajorfireballNorthwestofChicago,Feb6,2017.mp4",
+          "thumbnailPath": "/thumbs/MajorfireballNorthwestofChicagoFeb62017_frame.png",
+          "description": "Video of the Aquarius Project meteor.",
+          "type": "video",
+          "title": "Path of Aquarius Project Asteroid"
+        },
+        {
+          "id": "4",
+          "mediaPath": "/media/MidwestMeteorPoliceDashCam.mp4",
+          "thumbnailPath": "/thumbs/MidwestMeteorPoliceDashCam_frame.png",
+          "description": "Dashcam video of the Aquarius project meteor as a fireball.",
+          "type": "video",
+          "title": "Dashcam Footage of Aquarius Project Asteroid (2)"
+        },
+        {
+          "id": "5",
+          "mediaPath": "/media/110629Side2.mp4",
+          "thumbnailPath": "/thumbs/110629Side2_frame.png",
+          "description": "GoPro footage from Far Horizons balloon launch on 110629",
+          "type": "video",
+          "title": "Far Horizons Flight from Balloon"
+        },
+        {
+          "id": "6",
+          "mediaPath": "/media/5CameraPanoTest.mp4",
+          "thumbnailPath": "/thumbs/5CameraPanoTest_frame.png",
+          "description": "Far Horizons panoramic camera test",
+          "type": "video",
+          "title": "Far Horizons Flight Panoramic Test"
+        },
+        {
+          "id": "7",
+          "mediaPath": "/media/FarHorizons2.mp4",
+          "thumbnailPath": "/thumbs/FarHorizons2_frame.png",
+          "description": "Video of Far Horizons launch",
+          "type": "video",
+          "title": "Far Horizons Launch"
+        },
+        {
+          "id": "8",
+          "mediaPath": "/media/FH96SideCam4.mp4",
+          "thumbnailPath": "/thumbs/FH96SideCam4_frame.png",
+          "description": "",
+          "type": "video",
+          "title": "Far Horizons Side-cam and Descent"
+        },
+        {
+          "id": "9",
+          "mediaPath": "/media/SideCam4.mp4",
+          "thumbnailPath": "/thumbs/SideCam4_frame.png",
+          "description": "Newer video of Far Horizons in stratosphere.",
+          "type": "video",
+          "title": "Far Horizons in the Stratosphere"
+        },
+        {
+          "id": "10",
+          "mediaPath": "/media/ChicagoSkylineEvening_converted2D.mp4",
+          "thumbnailPath": "/thumbs/ChicagoSkylineEvening_frame.png",
+          "description": "Timelapse sequence of the Chicago skyline shot from the roof of the Adler Planetarium during evening twilight.",
+          "type": "video",
+          "title": "Chicago Skyline Timelapse"
+        },
+        {
+          "id": "402",
+          "mediaPath": "/media/GONet_Chicago_Aurora_240511.mp4",
+          "thumbnailPath": "/thumbs/GONet_Chicago_Aurora_240511_frame.png",
+          "description": "GONet all sky time lapse from the Doane observatory from May 10, 2024. The night starts out cloudy and rainy but when the clouds clear aurora fill the skies. Credit: Far Horizons/Adler Planetarium. ",
+          "type": "video",
+          "title": "GONet Chicago Aurora"
+        },
+        {
+          "id": "403",
+          "mediaPath": "/media/GONet_AdlerRoof_Skyline_241018.mp4",
+          "thumbnailPath": "/thumbs/GONet_AdlerRoof_Skyline_241018_frame.png",
+          "description": "Hemispheric timelapse view of the Chicago night sky and skyline from the roof of the Adler through the night of October 18, 2024. Credit: Far Horizons/Adler Planetarium. ",
+          "type": "video",
+          "title": "GONet Chicago Skyline"
+        }
+      ]
+    },
+    {
+      "id": "Artemis",
+      "label": "Artemis",
+      "items": [
+        {
+          "id": "397",
+          "mediaPath": "/media/Artemis_II_Simulated_Flyby.mp4",
+          "thumbnailPath": "/thumbs/Artemis_II_Simulated_Flyby_frame.png",
+          "description": "The virtual camera in this visualization follows a possible trajectory for the Orion spacecraft during the Artemis II mission, showing what astronauts might see out the window as they approach the Moon and fly around its far side. It compresses 36 hours into a little more than a minute. Credit: NASA's Scientific Visualization Studio. ",
+          "type": "video",
+          "title": "Artemis II Lunar Flyby Simulation"
+        },
+        {
+          "id": "398",
+          "mediaPath": "/media/Artemis_II_Mission_Map.mp4",
+          "thumbnailPath": "/thumbs/Artemis_II_Mission_Map_frame.png",
+          "description": "This artist's concept depicts the nominal trajectory for NASA's Artemis II test flight, an approximately 10-day mission that will send four astronauts around the Moon and back. NASA's Space Launch System (SLS) rocket and Orion spacecraft will launch from Kennedy Space Center in Florida. Orion will fly two orbits of Earth and then venture around the Moon in a figure-eight pattern before returning to Earth. Credit: NASA/JSC/Goddard.",
+          "type": "video",
+          "title": "Artemis II Mission Map"
+        },
+        {
+          "id": "399",
+          "mediaPath": "/media/Artemis_II_Altitude_Comparison.mp4",
+          "thumbnailPath": "/thumbs/Artemis_II_Altitude_Comparison_frame.png",
+          "description": "Comparison of the approximate altitude of the Orion capsule during Artemis II to the orbit of NASA's Lunar Reconnaissance Orbiter (LRO), which has been studying the Moon since 2009, and the average altitude of the seven Apollo missions that orbited the Moon between 1968 and 1972. Artemis will be at an altitude of about 5,000 miles above the lunar surface. Credit: NASA Goddard/CI Lab. ",
+          "type": "video",
+          "title": "Artemis II Altitude Comparison"
+        },
+        {
+          "id": "400",
+          "mediaPath": "/media/Artemis_II_Mission_Trajectory.mp4",
+          "thumbnailPath": "/thumbs/Artemis_II_Mission_Trajectory_frame.png",
+          "description": "Nominal trajectory of NASA's Artemis II mission, from Earth orbit around the Moon and back to Earth. Artemis II will launch four astronauts aboard NASA's Orion spacecraft into Earth orbit, then send them on a loop around the Moon before returning safely to Earth. The mission follows a free-return trajectory that uses the gravity of the Earth and Moon to naturally guide the crew home. Credit: NASA/Kel Elkins/Ernie Wright. ",
+          "type": "video",
+          "title": "Artemis II Mission Trajectory"
+        },
+        {
+          "id": "401",
+          "mediaPath": "/media/Artemis_I_Launch.mp4",
+          "thumbnailPath": "/thumbs/Artemis_I_Launch_frame.png",
+          "description": "This collage shows various views during the Artemis I launch at Kennedy Space Center. Artemis I was an uncrewed lunar test flight that launched on November 16 2022 and returned to Earth on December 11 2022. Credit: NASA. ",
+          "type": "video",
+          "title": "Artemis I Launch"
+        }
+      ]
+    },
+    {
+      "id": "Asteroids Comets and Solar System Bodies",
+      "label": "Asteroids Comets and Solar System Bodies",
+      "items": [
+        {
+          "id": "11",
+          "mediaPath": "/media/209PLINEAR-swingAround.slate.HD1080.mp4",
+          "thumbnailPath": "/thumbs/209PLINEARswingAround_frame.png",
+          "description": "Animation of periodic comet 209P/LINEAR's 2014 passage",
+          "type": "video",
+          "title": "2014 Passage of Comet 209P"
+        },
+        {
+          "id": "12",
+          "mediaPath": "/media/1609_046_AR_EN.mp4",
+          "thumbnailPath": "/thumbs/1609046AREN_frame.png",
+          "description": "Rosetta and Philae had finally reached their destination, Comet 67P/Churyumov-Gerasimenko. Rosetta spent many weeks studying the comet, sending lots of information back to Earth. But where was Philae going to land?",
+          "type": "video",
+          "title": "Philae's Landing Site"
+        },
+        {
+          "id": "13",
+          "mediaPath": "/media/ChasingaComet.mp4",
+          "thumbnailPath": "/thumbs/ChasingaComet_frame.png",
+          "description": "Animation of Rosetta Probes's trajectory on the way to Comet 67P.",
+          "type": "video",
+          "title": "Rosetta's Trajectory to Comet 67P"
+        },
+        {
+          "id": "14",
+          "mediaPath": "/media/CometLanding-SurfaceandDescentPicsBeamedToEarth-Video.mp4",
+          "thumbnailPath": "/thumbs/CometLandingSurfaceandDescentPicsBeamedToEarthVideo_frame.png",
+          "description": "Animation of Rosetta Probes's Philae Lander on Comet 67P, including some images taken by Philae.",
+          "type": "video",
+          "title": "Animation of Philae Landing on 67P"
+        },
+        {
+          "id": "15",
+          "mediaPath": "/media/GettingtoKnowComet67P.mp4",
+          "thumbnailPath": "/thumbs/GettingtoKnowComet67P_frame.png",
+          "description": "Animation of NAVCAM images from the Rosetta spacecraft\u2019s approach to comet 67P/Churyumov-Gerasimenko from a distance of about 800 km on 1 August to a distance of about 62 km on 22 August 2014.",
+          "type": "video",
+          "title": "Rosetta's View of 67P"
+        },
+        {
+          "id": "16",
+          "mediaPath": "/media/HowtoOrbitaComet.mp4",
+          "thumbnailPath": "/thumbs/HowtoOrbitaComet_frame.png",
+          "description": "Extended version of Philae touchdown animation to include visualisations of some of the science experiments on on the lander. The animation begins with the deployment of Philae from Rosetta at comet 67P/Churyumov-Gerasimenko in November 2014. Rosetta will come to within about 10 km of the nucleus to deploy Philae, which will take several hours to reach the surface. Because of the comet\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s extremely low gravity, landing gear will absorb the small forces of landing while ice screws in the probe\u201a's feet and a harpoon system will lock the probe to the surface. At the same time a thruster on top of the lander will push it down to counteract the impulse of the harpoon imparted in the opposite direction. Once it is anchored to the comet, the lander will begin its primary science mission, based on its 64-hour initial battery lifetime. The animation then shows five of Philae's 10 instruments in action: CIVA, ROLIS, SD2, MUPUS and APXS. Rosetta's Philae lander is provided by a consortium led by DLR, MPS, CNES and ASI",
+          "type": "video",
+          "title": "Rosetta's Orbital Insertion"
+        },
+        {
+          "id": "17",
+          "mediaPath": "/media/Rosetta_OSIRIS_67P_model_20141003_960.mp4",
+          "thumbnailPath": "/thumbs/RosettaOSIRIS67Pmodel20141003960_frame.png",
+          "description": "Images of comet 67P/Churyumov-Gerasimenko taken by the OSIRIS camera on ESA's Rosetta spacecraft have allowed this 3D shape model to be calculated.",
+          "type": "video",
+          "title": "67P Model"
+        },
+        {
+          "id": "18",
+          "mediaPath": "/media/RosettaNAVCAM_6AUG.mp4",
+          "thumbnailPath": "/thumbs/RosettaNAVCAM6AUG_frame.png",
+          "description": "This animation comprises 101 images acquired by the Navigation Camera on board ESA's Rosetta spacecraft as it approached comet 67P/C-G in August 2014. The first image was taken on 1 August at 11:07 UTC (12:07 CEST), at a distance of 832 km. The last image was taken 6 August at 06:07 UTC (08:07 CEST) at a distance of 110 km.",
+          "type": "video",
+          "title": "Rosetta Images of 67P"
+        },
+        {
+          "id": "19",
+          "mediaPath": "/media/OumuamuaOrbit_ezgif.mp4",
+          "thumbnailPath": "/thumbs/OumuamuaOrbitezgif_frame.png",
+          "description": "Orbit of first known interstellar visitor to solar system",
+          "type": "video",
+          "title": "Oumuamua's Orbit"
+        },
+        {
+          "id": "20",
+          "mediaPath": "/media/eso1737c.mp4",
+          "thumbnailPath": "/thumbs/eso1737c_frame.png",
+          "description": "Animation of path of interstellar object Oumuamua in 2017",
+          "type": "video",
+          "title": "Oumuamua's Shape and Orbit"
+        },
+        {
+          "id": "21",
+          "mediaPath": "/media/APO_2004BL86_20150127.mp4",
+          "thumbnailPath": "/thumbs/APO2004BL8620150127_frame.png",
+          "description": "This is a time-lapse of observations of near Earth asteroid 2004 BL86 during its close approach on 26 January 2015, using the slitviewer camera for DIS on APO. The entire sequence lasted about 3 hours in real time.",
+          "type": "video",
+          "title": "Near-Earth Asteroid 2004 BL86"
+        },
+        {
+          "id": "22",
+          "mediaPath": "/media/Asteroid_Discovery-1980-2014.mp4",
+          "thumbnailPath": "/thumbs/AsteroidDiscovery19802014_frame.png",
+          "description": "This movie shows the discovery location of 600,000 asteroids in the inner solar system.",
+          "type": "video",
+          "title": "Discovery of Asteroids Through Time"
+        },
+        {
+          "id": "23",
+          "mediaPath": "/media/DestinationDwarfPlanet-DawnApproachesCeres.mp4",
+          "thumbnailPath": "/thumbs/DestinationDwarfPlanetDawnApproachesCeres_frame.png",
+          "description": "Animation of NASA probe Dawn to dwarf planet Ceres",
+          "type": "video",
+          "title": "Animation of Dawn Approaching Ceres"
+        },
+        {
+          "id": "24",
+          "mediaPath": "/media/DwarfPlanetCeres-540-MASTER_high.mp4",
+          "thumbnailPath": "/thumbs/DwarfPlanetCeres540MASTERhigh_frame.png",
+          "description": "Images of Ceres from Dawn probe",
+          "type": "video",
+          "title": "Images of Ceres"
+        },
+        {
+          "id": "25",
+          "mediaPath": "/media/CometLovejoyFromISS.mp4",
+          "thumbnailPath": "/thumbs/CometLovejoyFromISS_frame.png",
+          "description": "Actual images of comet Lovejoy from ISS Dec. 21, 2011",
+          "type": "video",
+          "title": "Comet Lovejoy from ISS"
+        },
+        {
+          "id": "26",
+          "mediaPath": "/media/CometLovejoySDOSOHO.mp4",
+          "thumbnailPath": "/thumbs/CometLovejoySDOSOHO_frame.png",
+          "description": "Animation of Comet Lovejoy approach to Sun from SDO/SOHO",
+          "type": "video",
+          "title": "Comet Lovejoy Orbits Sun"
+        },
+        {
+          "id": "27",
+          "mediaPath": "/media/CometISON2.side.slate.HD1080.mp4",
+          "thumbnailPath": "/thumbs/CometISON2Side_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Trajectory Stationary (side)"
+        },
+        {
+          "id": "28",
+          "mediaPath": "/media/CometISON2.slate.HD1080.mp4",
+          "thumbnailPath": "/thumbs/CometISON2Top_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Trajectory Stationary (top)"
+        },
+        {
+          "id": "29",
+          "mediaPath": "/media/CometISONchaseSide.slate.HD1080.mp4",
+          "thumbnailPath": "/thumbs/CometISONchaseSide_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Trajectory Moving (side)"
+        },
+        {
+          "id": "30",
+          "mediaPath": "/media/CometISONchaseTop.slate.HD1080.mp4",
+          "thumbnailPath": "/thumbs/CometISONchaseTop_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Trajectory Moving (behind)"
+        },
+        {
+          "id": "31",
+          "mediaPath": "/media/hi1a_ison_inbound_big.mp4",
+          "thumbnailPath": "/thumbs/hi1aisoninboundbig_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Passes Earth"
+        },
+        {
+          "id": "32",
+          "mediaPath": "/media/ISON_Full_H264_1280x720_30.mp4",
+          "thumbnailPath": "/thumbs/ISONFullH2641280x72030_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Passes Sun"
+        },
+        {
+          "id": "33",
+          "mediaPath": "/media/STEREO-SECCHI_Hi1A_Nov20-25_ProRes_1280x720_29.97.mp4",
+          "thumbnailPath": "/thumbs/STEREOSECCHIHi1ANov2025ProRes1280x72029_frame.png",
+          "description": "2013-14 sungrazing comet that was torn apart by by Sun's gravity",
+          "type": "video",
+          "title": "Comet ISON Passes Mercury and Earth"
+        },
+        {
+          "id": "34",
+          "mediaPath": "/media/OSIRIS-RExOutboundCruiseandGravityAssist.mp4",
+          "thumbnailPath": "/thumbs/OSIRISRExOutboundCruiseandGravityAssist_frame.png",
+          "description": "Path of OSIRIS-REX to intercept NEO Bennu",
+          "type": "video",
+          "title": "OSIRIS-REx Trajectory"
+        },
+        {
+          "id": "35",
+          "mediaPath": "/media/Painted_Stone_ Asteroids_in_SDSS.mp4",
+          "thumbnailPath": "/thumbs/PaintedStoneAsteroidsinSDSS_frame.png",
+          "description": "This animation shows the orbital motions of over 100,000 of the asteroids observed by the Sloan Digital Sky Survey (SDSS), with colors illustrating the compositional diversity measured by the SDSS five-color camera. The relative sizes of each asteroid are also illustrated. All main-belt asteroids and Trojan asteroids with orbits known to high precision are shown. The animation is rendered with a timestep of 3 days. The compositional gradient of the asteroid belt is clearly visible, with green Vesta-family members in the inner belt fading through the blue C-class asteroids in the outer belt, and the deep red Trojan swarms beyond that. Occasional diagonal slashes that appear in the animation are the SDSS survey beams; these appear because the animation is rendered at near the survey epoch. The average orbital distances of Mercury, Venus, Earth, Mars, and Jupiter are illustrated with rings.",
+          "type": "video",
+          "title": "Asteroids in SDSS"
+        },
+        {
+          "id": "36",
+          "mediaPath": "/media/comet_close_29.mp4",
+          "thumbnailPath": "/thumbs/cometclose29_frame.png",
+          "description": "Flying past comet Siding-Spring the Mars orbiting fleet is faded on while Siding Spring passes very close to Mars. This visualization shows NASA\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s fleet of Mars orbiters, landers, and rovers during the planet\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s close encounter with Comet Siding Spring. C/2013 A1, better known as Comet Siding Spring, will make a remarkably close pass of Mars on October 19, 2014. At closest approach, Comet Siding Spring will come within 82,000 miles of the Red Planet \u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a8 just one-third of the distance from the Earth to the Moon. During the flyby, NASA will position its Mars fleet both to protect it from comet dust, and to make observations of the comet and its effects on the upper atmosphere of Mars.",
+          "type": "video",
+          "title": "Comet Siding Spring Orbit"
+        },
+        {
+          "id": "37",
+          "mediaPath": "/media/css-animation20141009musictitles-1280.mp4",
+          "thumbnailPath": "/thumbs/cssanimation20141009musictitles1280_frame.png",
+          "description": "Comet C/2013 A1 Siding Spring will make a close flyby of Mars on Oct. 19, 2014. At a distance of only 87,000 miles - about 1/3 the distance between the Earth and moon - it's a near miss of the Red Planet. Find out how NASA's Mars orbiters will evade dust from the comet.",
+          "type": "video",
+          "title": "Comet Siding Spring Animation"
+        },
+        {
+          "id": "38",
+          "mediaPath": "/media/Siding_Spring_From_Mars_FINAL.mp4",
+          "thumbnailPath": "/thumbs/SidingSpringFromMarsFINAL_frame.png",
+          "description": "This artist's concept simulates a ground-based view of Comet Siding Spring at its colsest approach to Mars. Victoria, a Martian crater previously visited by NASA's Opportunity rover, is visible in the foreground.",
+          "type": "video",
+          "title": "Comet Siding Spring from Mars"
+        },
+        {
+          "id": "39",
+          "mediaPath": "/media/V1-NEAorbits-HD_high.mp4",
+          "thumbnailPath": "/thumbs/V1NEAorbitsHDhigh_frame.png",
+          "description": "Discoveries of WISE (Wide-field infrared Survey Explorer) to find near Earth asteroids & comets",
+          "type": "video",
+          "title": "Near-Earth Objects from WISE"
+        },
+        {
+          "id": "40",
+          "mediaPath": "/media/VestaSurfaceComposition.mp4",
+          "thumbnailPath": "/thumbs/VestaSurfaceComposition_frame.png",
+          "description": "Animation based om data from NASA's Dawn spacecraft. Black & white images transition to false color images to highlight differences in surface omposition",
+          "type": "video",
+          "title": "Vesta Surface Composition"
+        },
+        {
+          "id": "41",
+          "mediaPath": "/media/VestaRotation.mp4",
+          "thumbnailPath": "/thumbs/VestaRotation_frame.png",
+          "description": "Animation based om data from NASA's Dawn spacecraft shows a 360 degree view of Vesta",
+          "type": "video",
+          "title": "Vesta Rotating"
+        },
+        {
+          "id": "42",
+          "mediaPath": "/media/PlanetNineHB.mp4",
+          "thumbnailPath": "/thumbs/PlanetNineHB_frame.png",
+          "description": "Evidence for Planet 9 (from Planet Nine show)",
+          "type": "video",
+          "title": "Planet Nine Evidence"
+        },
+        {
+          "id": "43",
+          "mediaPath": "/media/TNOcuts_HB.mp4",
+          "thumbnailPath": "/thumbs/TNOcutsHB_frame.png",
+          "description": "Animation of Kuiper Belt objects influenced by proposed Planet 9",
+          "type": "video",
+          "title": "Planet Nine Influences the Kuiper Belt"
+        },
+        {
+          "id": "44",
+          "mediaPath": "/media/KBOintro_HB.mp4",
+          "thumbnailPath": "/thumbs/KBOintroHB_frame.png",
+          "description": "Time lapsed simulation of discovery of KBO thru 2016",
+          "type": "video",
+          "title": "Kuiper Belt Objects"
+        },
+        {
+          "id": "45",
+          "mediaPath": "/media/NewHorizonsMission-KuiperBeltFly-Through-HD.mp4",
+          "thumbnailPath": "/thumbs/NewHorizonsMissionKuiperBeltFlyThroughHD_frame.png",
+          "description": "Animation of New Horizons' path to Pluto and beyond",
+          "type": "video",
+          "title": "New Horizons Flight Path Through Kuiper Belt"
+        },
+        {
+          "id": "46",
+          "mediaPath": "/media/HaumeaFamily3D_converted2D.mp4",
+          "thumbnailPath": "/thumbs/HaumeaFamily3D_frame.png",
+          "description": "A visualization of the similar orbits of objects in the Haumea collisional family.",
+          "type": "video",
+          "title": "Haumea Family 3D"
+        }
+      ]
+    },
+    {
+      "id": "Black Holes",
+      "label": "Black Holes",
+      "items": [
+        {
+          "id": "47",
+          "mediaPath": "/media/10807_Black_Hole_Swallows_Star_MPEG4_1280X720_29.97.mp4",
+          "thumbnailPath": "/thumbs/10807BlackHoleSwallowsStarMPEG41280X72029_frame.png",
+          "description": "Simulation of tidal disruption event",
+          "type": "video",
+          "title": "Black Hole Swallows Star"
+        },
+        {
+          "id": "48",
+          "mediaPath": "/media/black-hole-jet-VGA.mp4",
+          "thumbnailPath": "/thumbs/blackholejetVGA_frame.png",
+          "description": "Simulation of a supermassive black hole with jets (slow turn).",
+          "type": "video",
+          "title": "Black Hole Jet Animation"
+        },
+        {
+          "id": "49",
+          "mediaPath": "/media/EHT_M878_zoom.mp4",
+          "thumbnailPath": "/thumbs/EHTM878zoom_frame.png",
+          "description": "Zooms in on where first images of Black Hole M87 weretaken with Event Horizon Telescope",
+          "type": "video",
+          "title": "EHT M87 Zoom In"
+        },
+        {
+          "id": "50",
+          "mediaPath": "/media/11482_AGN_Clouds_Zoom_ProRes.mp4",
+          "thumbnailPath": "/thumbs/11482AGNCloudsZoomProRes_frame.png",
+          "description": "Fly in on an AGN, through obscuring clouds.",
+          "type": "video",
+          "title": "AGN Clouds Model"
+        },
+        {
+          "id": "51",
+          "mediaPath": "/media/agn_nature_cam3_ntsc.mp4",
+          "thumbnailPath": "/thumbs/agnnaturecam3ntsc_frame.png",
+          "description": "Visualization of Blazar",
+          "type": "video",
+          "title": "Blazar Model"
+        },
+        {
+          "id": "52",
+          "mediaPath": "/media/black-hole-jet-2-VGA.mp4",
+          "thumbnailPath": "/thumbs/blackholejet2VGA_frame.png",
+          "description": "Simulation of a supermassive black hole with jets (slow turn).",
+          "type": "video",
+          "title": "Supermassive Black Hole Jet Simulation (1)"
+        },
+        {
+          "id": "53",
+          "mediaPath": "/media/black-hole-jet-3-VGA.mp4",
+          "thumbnailPath": "/thumbs/blackholejet3VGA_frame.png",
+          "description": "Simulation of a supermassive black hole with jets (slow turn).",
+          "type": "video",
+          "title": "Supermassive Black Hole Jet Simulation (2)"
+        },
+        {
+          "id": "54",
+          "mediaPath": "/media/globClusterBHs.mp4",
+          "thumbnailPath": "/thumbs/globClusterBHs_frame.png",
+          "description": "The interior 500 stars and 50 black holes of a globular cluster simulation, over approximately 4 million years. The visualization eventually zooms into the center where two black holes eventually form a black hole binary.",
+          "type": "video",
+          "title": "Globular Cluster Black Holes"
+        },
+        {
+          "id": "55",
+          "mediaPath": "/media/eso1825c.mp4",
+          "thumbnailPath": "/thumbs/eso1825c_frame.png",
+          "description": "Motion of stars around Sgr A*, with zoom in",
+          "type": "video",
+          "title": "Galactic Center Zoom-In"
+        },
+        {
+          "id": "56",
+          "mediaPath": "/media/eso1825e.mp4",
+          "thumbnailPath": "/thumbs/eso1825e_frame.png",
+          "description": "Motion of stars around Sgr A*",
+          "type": "video",
+          "title": "Star Around Sgr A*"
+        },
+        {
+          "id": "57",
+          "mediaPath": "/media/MWBHInfallingGas.mp4",
+          "thumbnailPath": "/thumbs/MWBHInfallingGas_frame.png",
+          "description": "This simulation shows the G2 gas cloud during its close approach to the black hole at the center of the Milky Way.",
+          "type": "video",
+          "title": "G2 Gas Cloud Simulation"
+        },
+        {
+          "id": "58",
+          "mediaPath": "/media/MWBHInfallingGasObservation.mp4",
+          "thumbnailPath": "/thumbs/MWBHInfallingGasObservation_frame.png",
+          "description": "Infrared observation of G2 gas cloud, taken by Keck(?) Telescope.",
+          "type": "video",
+          "title": "G2 Gas Cloud Observation"
+        },
+        {
+          "id": "59",
+          "mediaPath": "/media/MWBHInfallingGaswStars.mp4",
+          "thumbnailPath": "/thumbs/MWBHInfallingGaswStars_frame.png",
+          "description": "G2 Gas Cloud Simulation (with Stars)",
+          "type": "video",
+          "title": "G2 Gas Cloud Simulation with Stars"
+        },
+        {
+          "id": "60",
+          "mediaPath": "/media/StarMurder.mp4",
+          "thumbnailPath": "/thumbs/StarMurder_frame.png",
+          "description": "A computer simulation showing a tidal disruption event (a star being shredded by the gravity of a massive black hole). The areas in white are regions of highest density, with progressively redder colors corresponding to lower-density regions. The blue dot pinpoints the black hole's location. The elapsed time (138.89 days) corresponds to the amount of time it takes for a sun-like star to be ripped apart by a black hole a million times more massive than the sun.",
+          "type": "video",
+          "title": "Tidal Disruption Event Simulation"
+        },
+        {
+          "id": "61",
+          "mediaPath": "/media/Seyfert_Clouds_Animation_Graph.mp4",
+          "thumbnailPath": "/thumbs/SeyfertCloudsAnimationGraph_frame.png",
+          "description": "Because the clouds absorb low-energy X-rays more strongly than high-energy X-rays, astronomers can measure the total density of gas along the line of sight directly from RXTE spectra. This animation shows changes in X-ray spectra corresponding to the number of clouds present at any instant along our line of sight.",
+          "type": "video",
+          "title": "Animation of Seyfert"
+        },
+        {
+          "id": "62",
+          "mediaPath": "/media/Zooming_in_on_the_heart_of_the_Milky_Way.mp4",
+          "thumbnailPath": "/thumbs/ZoominginontheheartoftheMilkyWay_frame.png",
+          "description": "Fly-through of Milky Way central bulge including animation of Sag A*",
+          "type": "video",
+          "title": "Zoom-in of Milky Way Center and S2 pass"
+        },
+        {
+          "id": "353",
+          "mediaPath": "/media/BlackHoleFlare.mp4",
+          "thumbnailPath": "/thumbs/BlackHoleFlare_frame.png",
+          "description": "This video shows that strong magnetic flux tubes that can form spontaneously in the turbulent accretion disk around a spinning black hole, which can be one of the mechanism behind flares. The galactic center black hole flares about once a day. During a flare event, the brightness of the inner accretion disk can increase by a factor of 10. Credit: C.K. Chan (University of Arizona). ",
+          "type": "video",
+          "title": "Black Hole Flare Simulation"
+        },
+        {
+          "id": "356",
+          "mediaPath": "/media/BH_Plunge_Rectilinear.mp4",
+          "thumbnailPath": "/thumbs/BH_Plunge_Rectilinear.png",
+          "description": "Simulation of a plunge into non-rotation 4.3 million solar mass black hole. Accretion disk and photon ring are visible. The camera completes almost two orbits before hitting the event horizon. At 42 seconds the camera crosses the event horizon. Credit: NASA's Goddard Space Flight Center/J. Schnittman and B. Powell.",
+          "type": "video",
+          "title": "Plunging into a Supermassive Black Hole"
+        },
+        {
+          "id": "357",
+          "mediaPath": "/media/BH_FlyBy_Rectilinear.mp4",
+          "thumbnailPath": "/thumbs/BH_FlyBy_Rectilinear.png",
+          "description": "Simulation of a flyby around non-rotation 4.3 million solar mass black hole. Accretion disk and photon ring are visible. The camera completes almost two orbits before escaping to safety. Structures in the direction of travel, at the center of the simulation, brighten greatly as speed increases. At 46 seconds, the camera makes its closest approach to the event horizon, reaching maximum velocity at 60% the speed of light.Credit: NASA's Goddard Space Flight Center/J. Schnittman and B. Powell.",
+          "type": "video",
+          "title": "Flight Around a Supermassive Black Hole"
+        },
+        {
+          "id": "358",
+          "mediaPath": "/media/Tidal_disruption_by_black_hole.mp4",
+          "thumbnailPath": "/thumbs/Tidal_disruption_by_black_hole.png",
+          "description": "This video illustrates how a star can be shredded into a streamer of hot gas as it passes close to a supermassive black hole, a tidal disruption event (TDE). It is the tremendous shear forces causes by the rapidly-increasing pull of gravity that effectively stretches the stars material out into a long stream as the stellar material in the side closer to the black hole is accelerated faster than the side that is farther away. Credit: NASA/JPL-Caltech/R. Hurt (IPAC).",
+          "type": "video",
+          "title": "Tidal Disruption Event by a Black Hole"
+        },
+        {
+          "id": "359",
+          "mediaPath": "/media/Orbiting_a_bare_black_hole.mp4",
+          "thumbnailPath": "/thumbs/Orbiting_a_bare_black_hole.png",
+          "description": "In this video the camera orbits around a bare black hole, getting closer to it over time. The black hole is only seen because of the way light warps around it. Note how an inverted view of the sky appears inside the Einstein Ring surrounding the black hole's shadow. Features that are about to move into the left side of the frame can first be seen slowly moving away from the right side of the black hole\u2019s shadow. Credit: NASA/JPL-Caltech/R. Hurt (IPAC).",
+          "type": "video",
+          "title": "Orbiting a Bare Black Hole"
+        }
+      ]
+    },
+    {
+      "id": "Compact Objects",
+      "label": "Compact Objects",
+      "items": [
+        {
+          "id": "63",
+          "mediaPath": "/media/ChandraCapturesNeutronStarAction.mp4",
+          "thumbnailPath": "/thumbs/ChandraCapturesNeutronStarAction_frame.png",
+          "description": "This movie from NASA's Chandra X-ray Observatory shows a fast moving jet of particles produced by the Vela pulsar, a rapidly rotating neutron star that was formed when a massive star collapsed. The Vela pulsar is about 1,000 light-years from Earth, about 12 miles in diameter, and makes a complete rotation in 89 milliseconds, faster than a helicopter rotor. As the pulsar whips around, it spews out a jet of charged particles that race along the pulsar's rotation axis at about 70% the speed of light. The Chandra data shown in the movie, containing 8 images obtained between June and September 2010, suggest that the pulsar may be slowly wobbling, or precessing, as it spins. The period of the precession, which is analogous to the slow wobble of a spinning top, is estimated to be about 120 days.",
+          "type": "video",
+          "title": "Chandra Captures Neutron Star Action"
+        },
+        {
+          "id": "64",
+          "mediaPath": "/media/TimeLapse_ofCrabPulsarWind.mp4",
+          "thumbnailPath": "/thumbs/TimeLapseofCrabPulsarWind_frame.png",
+          "description": "Crab Nebula Pulsar, M1. These actual observations show the expansion of shock waves emanating from the Pulsar interacting with the surrounding nebula. The Crab Pulsar actually pulsates 30 times per second, not seen here, a result of its rotation rate and the relative offset of the magnetic pole. Charndra X-Rays (left), Hubble Visible light (right).",
+          "type": "video",
+          "title": "Time Lapse of Crab Pulsar Wind"
+        },
+        {
+          "id": "65",
+          "mediaPath": "/media/BinaryWhiteDwarf_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/BinaryWhiteDwarfTB_frame.png",
+          "description": "Animation of binary white dwarf system undergoing mass transfer.",
+          "type": "video",
+          "title": "Binary White Dwarf Transferring Mass"
+        }
+      ]
+    },
+    {
+      "id": "Cosmology",
+      "label": "Cosmology",
+      "items": [
+        {
+          "id": "66",
+          "mediaPath": "/media/571_Planck_CMB_with_foreground_emission_layers.mp4",
+          "thumbnailPath": "/thumbs/571PlanckCMBwithforegroundemissionlayers_frame.png",
+          "description": "Views of CMB using multiple imaging techniques",
+          "type": "video",
+          "title": "Planck Cosmic Microwave Background"
+        },
+        {
+          "id": "67",
+          "mediaPath": "/media/illustris_movie_rot_sub_frame.mp4",
+          "thumbnailPath": "/thumbs/illustrismovierotsubframe_frame.png",
+          "description": "Large cosmological simulation of galaxy formation",
+          "type": "video",
+          "title": "Illustris Simulation Rotating"
+        },
+        {
+          "id": "68",
+          "mediaPath": "/media/illustris_movie_zoomin.mp4",
+          "thumbnailPath": "/thumbs/illustrismoviezoomin_frame.png",
+          "description": "The Illustris project is a large cosmological simulation of galaxy formation, completed in late 2013, using a state of the art numerical code and a comprehensive physical model. Here, it shows time evolution of a 10Mpc (comoving) region within Illustris from the start of the simulation to z=0. The movie transitions between the dark matter density field, gas temperature (blue: cold, green: warm: white: hot), and gas metallicity.",
+          "type": "video",
+          "title": "Illustris Simulation Zoom In"
+        },
+        {
+          "id": "69",
+          "mediaPath": "/media/Planck.mp4",
+          "thumbnailPath": "/thumbs/Planck_frame.png",
+          "description": "Planck one year all-sky survey",
+          "type": "video",
+          "title": "Planck One-Year "
+        },
+        {
+          "id": "70",
+          "mediaPath": "/media/illustris_movie_cube_sub_frame.mp4",
+          "thumbnailPath": "/thumbs/illustrismoviecubesubframe_frame.png",
+          "description": "Visualization of the emergence of Dark Matter since Big Bang",
+          "type": "video",
+          "title": "Illustris Subgrid Dark Matter + Gas"
+        },
+        {
+          "id": "71",
+          "mediaPath": "/media/illustris_movie_full_cube.mp4",
+          "thumbnailPath": "/thumbs/illustrismoviefullcube_frame.png",
+          "description": "Full simulation cube showing dark matter and gas temperature at the present day. The cube has a sidelength of about 100 Mpc. The video shows the full matter distribution by slowly adding slices on top of each other.",
+          "type": "video",
+          "title": "Illustris Full Cube Dark Matter + Gas"
+        },
+        {
+          "id": "72",
+          "mediaPath": "/media/LSS_Box_Kravtsov.mp4",
+          "thumbnailPath": "/thumbs/LSSBoxKravtsov_frame.png",
+          "description": "Simulation of large scale structure formation from z=~25 to z=0",
+          "type": "video",
+          "title": "Large Scale Structure from z=25"
+        },
+        {
+          "id": "73",
+          "mediaPath": "/media/millennium_flythru.mp4",
+          "thumbnailPath": "/thumbs/millenniumflythru_frame.png",
+          "description": "Millennium Simulation",
+          "type": "video",
+          "title": "Millennium Simulation Fly-through (1)"
+        },
+        {
+          "id": "74",
+          "mediaPath": "/media/msII_hires_slow.mp4",
+          "thumbnailPath": "/thumbs/millenniumflythru_highres_frame.png",
+          "description": "Hi-res flythrough of Millennium Simulation-II",
+          "type": "video",
+          "title": "Millennium Simulation Fly-through (2)"
+        },
+        {
+          "id": "75",
+          "mediaPath": "/media/UniversePie.mp4",
+          "thumbnailPath": "/thumbs/UniversePie_frame.png",
+          "description": "Pie charts showing how the contents of the Universe change over Cosmic Time",
+          "type": "video",
+          "title": "Universe Content over Cosmic Time"
+        },
+        {
+          "id": "76",
+          "mediaPath": "/media/cluster-kaehler-TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/clusterkaehlerTB_frame.png",
+          "description": "Large-scale structure formation simulation.",
+          "type": "video",
+          "title": "Large Scale Structure Formation"
+        },
+        {
+          "id": "77",
+          "mediaPath": "/media/ClusterEvoTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/ClusterEvoTB_frame.png",
+          "description": "A simulation of the collapse of a galaxy cluster, shown with surfaces of constant density.",
+          "type": "video",
+          "title": "Galaxy Cluster Collapse"
+        },
+        {
+          "id": "78",
+          "mediaPath": "/media/firststar-kaehler-TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/firststarkaehlerTB_frame.png",
+          "description": "The first stars in the universe were very massive and intensely bright, ionizing hydrogen in their proto-galaxy out to thousands of light-years. In this simulation, 3 stars heat up and partly blow away their surroundings, before they die in gigantic supernova explosions.",
+          "type": "video",
+          "title": "First Stars"
+        },
+        {
+          "id": "79",
+          "mediaPath": "/media/reionization-kaehler-TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/reionizationkaehlerTB_frame.png",
+          "description": "This simulation shows how the first galaxies in the universe heated and ionized the intergalacitc material, ending the so-called dark ages of the universe. In this process the material became transparent to the high-energetic light emitted by the galaxies.",
+          "type": "video",
+          "title": "Reionization"
+        },
+        {
+          "id": "351",
+          "mediaPath": "/media/CMBWavelengthsAndContrast.mp4",
+          "thumbnailPath": "/thumbs/CMBWavelengthsAndContrast_frame.png",
+          "description": "The video starts with an overview of the Milky Way, then moves down to see the view from Earth, and unwrap the sky it into an oval projection. We then view the sky at different wavelengths from the visible down to the microwave. The microwave radiation from the sky appears almost featureless until we increase the contrast to reveal the small details in the CMB, as seen by the WMAP telescope. Credit: NASA / WMAP Science Team. ",
+          "type": "video",
+          "title": "CMB Wavelengths And Contrast"
+        },
+        {
+          "id": "352",
+          "mediaPath": "/media/FrontierE-LargeScaleStructure.mp4",
+          "thumbnailPath": "/thumbs/FrontierE-LargeScaleStructure.png",
+          "description": "This movie shows the formation of the largest object in the Frontier-E simulation (4.7e15 Msun/h). The left panel shows a 64x64x76 Mpc/h subvolume of the simulation (only 1/100,000th the full simulation volume) around the large object, with the right panel providing a closer look. In each panel, the gas density field is colored by its temperature. In the right panel, the white circles show star particles and the open black circles show AGN particles. Credit: N. Frontiere, M. Buehlmann, J.D. Emberson, S. Habib, P. Larsen, K. Heitmann, C.-A. Faucher-Giguere (OakRidge/Argonne National Labs). ",
+          "type": "video",
+          "title": "Hydrodynamic Simulation of Large-Scale Structure Formation"
+        },
+        {
+          "id": "360",
+          "mediaPath": "/media/Baryon_Acoustic_Oscillations.mp4",
+          "thumbnailPath": "/thumbs/Baryon_Acoustic_Oscillations.png",
+          "description": "This animation explains how BAOs arose in the early universe. In the beginning, the cosmos was filled with a hot, dense fluid called plasma. Tiny variations in density excited sound waves that rippled through the fluid. When the universe was about 400,000 years old, the waves froze where they were. Slightly more galaxies formed along the ripples. These frozen ripples stretched as the universe expanded, increasing the distance between galaxies. Credit: NASA's Goddard Space Flight Center.",
+          "type": "video",
+          "title": "Baryon Acoustic Oscillations Animation"
+        }
+      ]
+    },
+    {
+      "id": "Earth",
+      "label": "Earth",
+      "items": [
+        {
+          "id": "80",
+          "mediaPath": "/media/earth_day-FINAL_CREDITS.mp4",
+          "thumbnailPath": "/thumbs/earthdayFINALCREDITS_frame.png",
+          "description": "Changes to the Earth since first Earth Day 1970",
+          "type": "video",
+          "title": "Earth Day Changes"
+        },
+        {
+          "id": "81",
+          "mediaPath": "/media/globalTemp-variation-1920x1080.mp4",
+          "thumbnailPath": "/thumbs/globalTempvariation1920x1080_frame.png",
+          "description": "Changes in global temperatures 1892-2012",
+          "type": "video",
+          "title": "Global Temperature Variations"
+        },
+        {
+          "id": "82",
+          "mediaPath": "/media/AuroraBorFromISS.mp4",
+          "thumbnailPath": "/thumbs/AuroraBorFromISS_frame.png",
+          "description": "Footage of the aurora borealis from the International Space Station, December 11, 2011, Expedition 30.",
+          "type": "video",
+          "title": "Aurora Borealis From ISS"
+        },
+        {
+          "id": "83",
+          "mediaPath": "/media/2012update_USfires.mp4",
+          "thumbnailPath": "/thumbs/2012updateUSfires_frame.png",
+          "description": "View of wild fires in US in 2012",
+          "type": "video",
+          "title": "US Wildfires in 2012"
+        },
+        {
+          "id": "84",
+          "mediaPath": "/media/AuroraAustFromISS.mp4",
+          "thumbnailPath": "/thumbs/AuroraAustFromISS_frame.png",
+          "description": "Footage of the aurora australis from the International Space Station, September 17, 2011, Expedition 29.",
+          "type": "video",
+          "title": "Aurora Australis From ISS"
+        },
+        {
+          "id": "85",
+          "mediaPath": "/media/Earth.mp4",
+          "thumbnailPath": "/thumbs/Earth_frame.png",
+          "description": "View from Adler Planetarium to space and then back down to interesting sites on Earth",
+          "type": "video",
+          "title": "Earth from Space"
+        },
+        {
+          "id": "86",
+          "mediaPath": "/media/fleet_with_gpm_colors_1920x1080_60fps.mp4",
+          "thumbnailPath": "/thumbs/fleetwithgpmcolors1920x108060fps_frame.png",
+          "description": "This animation shows the orbits of NASA's current (as of January 2014) fleet of Earth remote sensing observatories.",
+          "type": "video",
+          "title": "NASA Earth-Observing Satellites (2014)"
+        },
+        {
+          "id": "87",
+          "mediaPath": "/media/gpm_constellation_w_clock.mp4",
+          "thumbnailPath": "/thumbs/gpmconstellationwclock_frame.png",
+          "description": "In this animation the orbit paths of the partner satellites of the Global Precipitation Measurement (GPM) constellation fill in blue as the instruments pass over Earth. Rainfall appears light blue for light rain, yellow for moderate, and red for heavy rain. Partner satellites are traced in green and purple, and the GPM Core is traced in red. A joint Earth-observing mission between NASA and the Japan Aerospace Exploration Agency (JAXA), the GPM Core Observatory was launched on 27 Feb 2014.",
+          "type": "video",
+          "title": "Precipitation Satellites"
+        },
+        {
+          "id": "88",
+          "mediaPath": "/media/GPM_instruments_1080.mp4",
+          "thumbnailPath": "/thumbs/GPMinstruments1080_frame.png",
+          "description": "How Global Precipitation Mearsurement satellite measures parcipitation",
+          "type": "video",
+          "title": "Global Precipitation Meausrement Instruments"
+        },
+        {
+          "id": "89",
+          "mediaPath": "/media/magField_anaglyph.mp4",
+          "thumbnailPath": "/thumbs/magFieldanaglyph_frame.png",
+          "description": "Animation of Earth's magnetic field",
+          "type": "video",
+          "title": "Animation of Earth's magnetic field"
+        },
+        {
+          "id": "90",
+          "mediaPath": "/media/minMax30fps.mp4",
+          "thumbnailPath": "/thumbs/minMax30fps_frame.png",
+          "description": "Animation of changes to Arctic ice cap 2003-2008",
+          "type": "video",
+          "title": "Arctic Icecaps 2003-2008"
+        },
+        {
+          "id": "91",
+          "mediaPath": "/media/ozone_side_by_side.mp4",
+          "thumbnailPath": "/thumbs/ozonesidebyside_frame.png",
+          "description": "Animation of impact of ban on flourocarbons on ozone layers 1974-2064",
+          "type": "video",
+          "title": "Ozone Layer Projections with/without Cloroflourocarbons"
+        },
+        {
+          "id": "92",
+          "mediaPath": "/media/seasonalVegetation.mp4",
+          "thumbnailPath": "/thumbs/seasonalVegetation_frame.png",
+          "description": "Seasonal changes in vegetation patterns in US",
+          "type": "video",
+          "title": "Seasonal Vegetation"
+        },
+        {
+          "id": "93",
+          "mediaPath": "/media/TheRotatingEarthattheTimeofSummerandWinterSolsticeHD.mp4",
+          "thumbnailPath": "/thumbs/TheRotatingEarthattheTimeofSummerandWinterSolsticeHD_frame.png",
+          "description": "What causes seasons",
+          "type": "video",
+          "title": "The Rotating Earth at the Time of Summer and Winter Solstice"
+        },
+        {
+          "id": "94",
+          "mediaPath": "/media/eclipse711_720p.mp4",
+          "thumbnailPath": "/thumbs/eclipse711720p_frame.png",
+          "description": "Animation of Moon's shadow crossing Earth",
+          "type": "video",
+          "title": "Solar Eclipse Shadow Animation"
+        },
+        {
+          "id": "95",
+          "mediaPath": "/media/eclipse_720p.mp4",
+          "thumbnailPath": "/thumbs/eclipse720p_frame.png",
+          "description": "Animation of Earth-Moon-Sun alignment during Solar eclipse",
+          "type": "video",
+          "title": "Solar Eclipse Earth-Moon-Sun Animation"
+        },
+        {
+          "id": "96",
+          "mediaPath": "/media/eclipse2017sunearth_1080p30.mp4",
+          "thumbnailPath": "/thumbs/eclipse2017sunearth1080p30_frame.png",
+          "description": "Animation of Moon's shadow during total Solar eclipse, showing umbra and penumbra.",
+          "type": "video",
+          "title": "Solar Eclipse Umbra/Penumbra Animation"
+        },
+        {
+          "id": "97",
+          "mediaPath": "/media/eclipse2017usa_suns_1080p30.mp4",
+          "thumbnailPath": "/thumbs/eclipse2017usasuns1080p30_frame.png",
+          "description": "Path of totality during 2017 Solar eclipse.",
+          "type": "video",
+          "title": "Animation of 2017 Solar Eclipse"
+        },
+        {
+          "id": "98",
+          "mediaPath": "/media/shadow_cones_1080p30.mp4",
+          "thumbnailPath": "/thumbs/shadowcones1080p30_frame.png",
+          "description": "Animation of Moon's point of view during 2017 Solar eclipse, showing shadow cones of umbra and penumbra.",
+          "type": "video",
+          "title": "Animation of Shadow Cones in 2017 Solar Eclipse"
+        },
+        {
+          "id": "99",
+          "mediaPath": "/media/sos_insol_1024p15.mp4",
+          "thumbnailPath": "/thumbs/sosinsol1024p15_frame.png",
+          "description": "Map showing dark and light areas on Earth during 2017 Solar Eclipse.",
+          "type": "video",
+          "title": "Darkness on Earth During 2017 Solar Eclipse"
+        },
+        {
+          "id": "100",
+          "mediaPath": "/media/TheTotalSolarEclipseofAugust21,2017-flyalongwiththeshadow!.mp4",
+          "thumbnailPath": "/thumbs/TheTotalSolarEclipseofAugust212017flyalongwiththeshadow_frame.png",
+          "description": "Animated flyover of Moon's shadow traveling across USA during the 2017 Solar eclipse.",
+          "type": "video",
+          "title": "Flyover of Moon's Shadow During 2017 Solar Eclipse"
+        },
+        {
+          "id": "101",
+          "mediaPath": "/media/totpath2017_1080p30.mp4",
+          "thumbnailPath": "/thumbs/totpath20171080p30_frame.png",
+          "description": "Animated map following Moon's shadow traveling across USA during the 2017 Solar eclipse.",
+          "type": "video",
+          "title": "Map of Moon's Shadow During 2017 Solar Eclipse"
+        },
+        {
+          "id": "102",
+          "mediaPath": "/media/umbra_shapes_1080p30.mp4",
+          "thumbnailPath": "/thumbs/umbrashapes1080p30_frame.png",
+          "description": "Animation showing the shape of the umbra during the 2017 Solar eclipse, accounting for Earth and lunar topography.",
+          "type": "video",
+          "title": "Shape of Umbra"
+        },
+        {
+          "id": "103",
+          "mediaPath": "/media/Solarwind.mp4",
+          "thumbnailPath": "/thumbs/Solarwind_frame.png",
+          "description": "Animation showing Earth's magnetic field, the Solar wind, and aurorae.",
+          "type": "video",
+          "title": "Solar Wind and Earth's Magnetic Field"
+        },
+        {
+          "id": "104",
+          "mediaPath": "/media/AMSR-E_Arctic_Sea_Ice-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/AMSREArcticSeaIceTBH264_frame.png",
+          "description": "Timelapse of the Arctic Sea's seasonal variations.",
+          "type": "video",
+          "title": "Arctic Sea Timelapse"
+        },
+        {
+          "id": "105",
+          "mediaPath": "/media/Earth_Observing_Fleet-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/EarthObservingFleetTBH264_frame.png",
+          "description": "Observational satellites in orbit around Earth.",
+          "type": "video",
+          "title": "Earth-Observing Satellites"
+        },
+        {
+          "id": "106",
+          "mediaPath": "/media/SeaWiFS_Biosphere_Global_Rotation_1997-2006_TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/SeaWiFSBiosphereGlobalRotation19972006TBH264_frame.png",
+          "description": "Sea-viewing Wide Field-of-view Sensor (SeaWiFS) view of Earth's biosphere from 1997-2006.",
+          "type": "video",
+          "title": "Earth's Biosphere from 1997-2006"
+        },
+        {
+          "id": "107",
+          "mediaPath": "/media/Aurora_3d_converted2D.mp4",
+          "thumbnailPath": "/thumbs/Aurora3d_frame.png",
+          "description": "Many timepalses of aurora on Earth (10-minute movie)",
+          "type": "video",
+          "title": "Aurora on Earth"
+        },
+        {
+          "id": "354",
+          "mediaPath": "/media/SubstormsAndAuroraAnimation.mp4",
+          "thumbnailPath": "/thumbs/SubstormsAndAuroraAnimation_frame.png",
+          "description": "This animation shows a magnetospheric substorm, during which the reconnection causes energy to be rapidly released along the field lines causing the auroras to brighten. Credit: NASA/Goddard Space Flight Center- Conceptual Image Lab. ",
+          "type": "video",
+          "title": "Substorms and Aurora Animation"
+        },
+        {
+          "id": "355",
+          "mediaPath": "/media/August2024AuroraFromTheISS.mp4",
+          "thumbnailPath": "/thumbs/August2024AuroraFromTheISS_frame.png",
+          "description": "Video from NASA astronaut Matthew Dominick aboard the ISS of aurora on August 12, 2024. Timelapse of the moon setting into streams of red and green aurora followed by a sunrise lighting up Soyuz with a light blue.  Camera specs are 15mm, T1.8, 1/3s exposure, 1/2 s interval. Credit: Matthew Dominick. ",
+          "type": "video",
+          "title": "August 2024 Aurora from the ISS"
+        }
+      ]
+    },
+    {
+      "id": "Euclid",
+      "label": "Euclid",
+      "items": [
+        {
+          "id": "388",
+          "mediaPath": "/media/Euclid_Telescope_Rendering.mp4",
+          "thumbnailPath": "/thumbs/Euclid_Telescope_Rendering_frame.png",
+          "description": "Animation of the Euclid spacecraft, showing different elements such as the telescope, payload module and solar panels. Euclid is a medium-class mission in ESA's Cosmic Vision to investigate the expansion of our Universe over the past ten billion years, probing cosmic epochs from before the expansion started to accelerate, all the way to the present. Credit: ESA/ATG medialab. ",
+          "type": "video",
+          "title": "Euclid Telescope Rendering Animation"
+        },
+        {
+          "id": "389",
+          "mediaPath": "/media/Perseus_Cluster_Euclid.mp4",
+          "thumbnailPath": "/thumbs/Perseus_Cluster_Euclid_frame.png",
+          "description": "The image shows 1000 galaxies belonging to the Perseus Cluster, and more than 100,000 additional galaxies further away in the background. The most distant galaxies in this image have a lookback time of 10 Gyr. This is the first time that such a large image has allowed us to capture so many Perseus galaxies in such a high level of detail. Perseus is one of the most massive structures known in the Universe, located 240 million lightyears away. Credit: ESA/Euclid/Euclid Consortium/NASA. ",
+          "type": "video",
+          "title": "Perseus Cluster from Euclid"
+        },
+        {
+          "id": "390",
+          "mediaPath": "/media/Horsehead_Nebula_Euclid.mp4",
+          "thumbnailPath": "/thumbs/Horsehead_Nebula_Euclid_frame.png",
+          "description": "This zoom video features three unique views of the Horsehead Nebula, including images from as ESA's Euclid telescope, the NASA/ESA Hubble Space Telescope's infrared view of the object, and finally revealing the new image from Webb's NIRCam (Near-InfraRed Camera) instrument. It is the sharpest infrared image of the object to date, showing a part of the iconic nebula in a whole new light, and capturing its complexity with unprecedented spatial resolution. Credit: ESA/Webb, NASA, CSA, K. Misselt, A. Abergel. ",
+          "type": "video",
+          "title": "Horsehead Nebula from Euclid, Hubble, and JWST"
+        },
+        {
+          "id": "391",
+          "mediaPath": "/media/Cosmic_Atlas_Euclid.mp4",
+          "thumbnailPath": "/thumbs/Cosmic_Atlas_Euclid_frame.png",
+          "description": "The first page of ESA Euclid's great cosmic atlas and marvel at millions of stars and galaxies captured in pristine detail, in a huge 208-gigapixel mosaic. The mosaic covers an area of the Southern Sky more than 500 times the area of the full Moon as seen from Earth. The 14 million galaxies are about 1 percent of the area Euclid will cover over six years. Credit: ESA/Euclid/Euclid Consortium/NASA. ",
+          "type": "video",
+          "title": "Euclid Galaxy Survey"
+        }
+      ]
+    },
+    {
+      "id": "Exoplanets",
+      "label": "Exoplanets",
+      "items": [
+        {
+          "id": "108",
+          "mediaPath": "/media/HATp7CurveMagnified.mp4",
+          "thumbnailPath": "/thumbs/HATp7CurveMagnified_frame.png",
+          "description": "This is a close-up of the light curve of the transiting planet HAT-P7. You see how the brightness changes with the planets' rotational phase, as the bright side of the planet comes in and out of view.",
+          "type": "video",
+          "title": "HAT-P7 Light Curve"
+        },
+        {
+          "id": "109",
+          "mediaPath": "/media/500Hours-Exploringthe7ExoplanetsofTRAPPIST-1(ssc2017-01v2).mp4",
+          "thumbnailPath": "/thumbs/500HoursExploringthe7ExoplanetsofTRAPPIST1ssc201701v2_frame.png",
+          "description": "Facts about TRAPPIST-1 and its discovery",
+          "type": "video",
+          "title": "500 Hours - Exploring the 7 Exoplanets of TRAPPIST-1"
+        },
+        {
+          "id": "110",
+          "mediaPath": "/media/AnExtrasolarPlanetOrbitingaStar.mp4",
+          "thumbnailPath": "/thumbs/AnExtrasolarPlanetOrbitingaStar_frame.png",
+          "description": "3D animation that shows an extrasolar planet orbiting a star.",
+          "type": "video",
+          "title": "Visualization of Hot Jupiter Orbiting Star"
+        },
+        {
+          "id": "111",
+          "mediaPath": "/media/ArtistsConceptofExoplanetOrbitingFomalhaut.mp4",
+          "thumbnailPath": "/thumbs/ArtistsConceptofExoplanetOrbitingFomalhaut_frame.png",
+          "description": "Fomalhaut b was announced in 2008 as the first planet ever to be directly imaged in visible light around another star. It was first identified in 2008 from Hubble/ACS images taken in 2004 and 2006. This is an artist's impression of Fomalhaut b orbiting its sun, Fomalhaut. This model of Fomalhaut b as a massive planet surrounded by a ring system was challenged by researchers who offered alternative hypotheses to explain Fomalhaut's eccentric debris ring. However, the original model was subsequently revived based on further analysis. The revival of the claim that Fomalhaut b is (possibly) a planet after it had been discounted led some to nickname it a \"zombie planet\".",
+          "type": "video",
+          "title": "Artist's Concept of Fomalhaut b"
+        },
+        {
+          "id": "112",
+          "mediaPath": "/media/ArtisticimpressionofGliese436bintransit.mp4",
+          "thumbnailPath": "/thumbs/ArtisticimpressionofGliese436bintransit_frame.png",
+          "description": "Fomalhaut b was announced in 2008 as the first planet ever to be directly imaged in visible light around another star. It was first identified in 2008 from Hubble/ACS images taken in 2004 and 2006. This is an artist's impression of Fomalhaut b orbiting its sun, Fomalhaut. This model of Fomalhaut b as a massive planet surrounded by a ring system was challenged by researchers who offered alternative hypotheses to explain Fomalhaut's eccentric debris ring. However, the original model was subsequently revived based on further analysis. The revival of the claim that Fomalhaut b is (possibly) a planet after it had been discounted led some to nickname it a \"zombie planet\".",
+          "type": "video",
+          "title": "Artist's Concept of Gliese 436b in Transit"
+        },
+        {
+          "id": "113",
+          "mediaPath": "/media/CompLifeZoneNoTxtFullH264.mp4",
+          "thumbnailPath": "/thumbs/CompLifeZoneNoTxtFullH264_frame.png",
+          "description": "Examples of habitable zones",
+          "type": "video",
+          "title": "Habitable Zone"
+        },
+        {
+          "id": "114",
+          "mediaPath": "/media/ExoplanetMicrolensingTechnique.mp4",
+          "thumbnailPath": "/thumbs/ExoplanetMicrolensingTechnique_frame.png",
+          "description": "Use of microlensing to detect \"rouge\" exoplanets",
+          "type": "video",
+          "title": "Exoplanet Microlensing Technique"
+        },
+        {
+          "id": "115",
+          "mediaPath": "/media/FireandIcePlanet.mp4",
+          "thumbnailPath": "/thumbs/FireandIcePlanet_frame.png",
+          "description": "This artist's animation shows a blistering world revolving around its nearby \"sun.\" NASA's infrared Spitzer Space Telescope observed a planetary system like this one, as the planet's sunlit and dark hemispheres swung alternately into the telescope's view. Based on the rise and fall of the planet's infrared light, or heat, Spitzer was able to measure the difference in temperature between the two sides of the planet -- about 1,400 degrees Celsius (2,550 degrees Fahrenheit). According to the astronomers, this means that the sunlit side of the planet is always as hot as fire, while the dark side is potentially as cold as ice. The movie illustrates what the system might look like to infrared eyes. It begins by showing an overhead view of the star Upsilon Andromedae and its planet Upsilon Andromedae b, the closest of three planets orbiting the star and the object of the Spitzer study. This planet whips around its star in 4.6 days. The animation then shifts to show Spitzer's view of the system. The planet is shown with winds that circulate quickly around the surface, though astronomers believe the planet is \"tidally locked.\" Our moon is similarly locked to Earth, always showing us the same face. Spitzer measured the infrared light coming from both the star and the planet at five points during the planet's orbit. The temperature levels went and up and down depending on which face of the planet, sunlit or dark, was in Spitzer's line of sight. The actual data collected by Spitzer are displayed over the animation. The difference between the peak and trough of the green curve represents the difference in temperature across the surface of the planet. These results indicate that, even if strong winds blow across this planet, its sun-baked atmosphere will cool off before reaching the planet's dark side.",
+          "type": "video",
+          "title": "Fire and Ice Planet: Tidally Locked Hot Jupiter"
+        },
+        {
+          "id": "116",
+          "mediaPath": "/media/HATp7PhasesLightCurve.mp4",
+          "thumbnailPath": "/thumbs/HATp7PhasesLightCurve_frame.png",
+          "description": "This video shows HAT-P7 orbiting and passing in front of it's host star. The transit light curve traces out the brightness as a function of time. Both the primary and secondary eclipses can be seen. A close up of the planet is also shown; the planet rotates, showing it's day and night sides (note that the planet orbits synchronously). The corresponding \"close up\" video shows the same view, but zoomed in on the light curve so that the small scale variations, which are due to the planet's bright side facing towards or away from the viewer, can be seen.",
+          "type": "video",
+          "title": "HAT-P-7 Lightcurve"
+        },
+        {
+          "id": "117",
+          "mediaPath": "/media/HowtoMeasureaPlanetaryEclipse.mp4",
+          "thumbnailPath": "/thumbs/HowtoMeasureaPlanetaryEclipse_frame.png",
+          "description": "This artist's animation shows a close-up view of a distant giant planet passing behind its star as a regular part of its orbit. By studying \"secondary eclipses\" like this in infrared light, astronomers can capture and study the direct light of known extrasolar planets. Though they cannot actually distinguish the planet from its star, they can detect changes in the system's total light. Why a secondary eclipse? When a planet transits, or passes in front of, its star, it partially blocks the light of the star. When the planet swings around behind the star, the star completely blocks its light. This drop in total light can be measured to determine the amount of light coming from just the planet, as demonstrated in the graph overlay. Why infrared? In visible light, the glare of a star overwhelms its planetary companion and the little light the planet reflects. In infrared, a star shines less brightly, and its planet gives off its own internal light, or heat radiation, making the planet easier to detect. By observing these secondary eclipses at different infrared wavelengths, astronomers can obtain the planet's temperature, and, in the future, they may be able to pick out chemicals sprinkled throughout a planet's atmosphere. The technique also reveals whether a planet's orbit is elongated or circular. This strategy will not work for all known extrasolar planets. It is ideally suited to study those Jupiter-sized planets previously discovered to cross, or transit, between us and the Sun-like stars they orbit, out to distances of 500 light-years. NASA's Spitzer Space Telescope was the first to successfully employ this technique. In this animation, the colors reflect what our eyes might see if we could retune them to the invisible, infrared portion of the light spectrum. The hot star is a bit fainter than it would appear in visible light, and the planet glows more intensely. Their hues represent relative differences in temperature. Because the star is hotter than the planet, and because hotter objects give off more blue light than red, the star is depicted in blue, and the planet, red.",
+          "type": "video",
+          "title": "Secondary Transit Lightcurve"
+        },
+        {
+          "id": "118",
+          "mediaPath": "/media/Kepler11-ASix-PlanetSonata-HD.mp4",
+          "thumbnailPath": "/thumbs/Kepler11ASixPlanetSonataHD_frame.png",
+          "description": "Harmonics of Kepler 11-A",
+          "type": "video",
+          "title": "Kepler-11 Harmonics"
+        },
+        {
+          "id": "119",
+          "mediaPath": "/media/Kepler16-Overhead-720.mp4",
+          "thumbnailPath": "/thumbs/Kepler16Overhead720_frame.png",
+          "description": "Animation of binary star Kepler 16, with gas giant exoplanet Kepler-16b",
+          "type": "video",
+          "title": "Kepler-16 Overhead"
+        },
+        {
+          "id": "120",
+          "mediaPath": "/media/Kepler16Model.mp4",
+          "thumbnailPath": "/thumbs/Kepler16Model_frame.png",
+          "description": "Transit data of discovery of Kepler 16",
+          "type": "video",
+          "title": "Kepler-16 Observations"
+        },
+        {
+          "id": "121",
+          "mediaPath": "/media/kepler_diagram_GalacticView_fullsizeH264.mp4",
+          "thumbnailPath": "/thumbs/keplerdiagramGalacticViewfullsizeH264_frame.png",
+          "description": "View of the Kepler Space Telescope viewing field for exoplanets",
+          "type": "video",
+          "title": "Kepler's View in the Galaxy"
+        },
+        {
+          "id": "122",
+          "mediaPath": "/media/KeplerFOV_H264_FullSize.mp4",
+          "thumbnailPath": "/thumbs/KeplerFOVH264FullSize_frame.png",
+          "description": "Kepler field of View",
+          "type": "video",
+          "title": "Kepler's Field of View"
+        },
+        {
+          "id": "123",
+          "mediaPath": "/media/Keplerorrery-1.mp4",
+          "thumbnailPath": "/thumbs/Keplerorrery1_frame.png",
+          "description": "Population of exoplanets discovered by kepler",
+          "type": "video",
+          "title": "Kepler Orrery"
+        },
+        {
+          "id": "124",
+          "mediaPath": "/media/NightfallHD131399.mp4",
+          "thumbnailPath": "/thumbs/NightfallHD131399_frame.png",
+          "description": "Animation of Isaac Asimov's fictional planet Kalgash, which is illuminated by 6 suns and only rarely experiences night",
+          "type": "video",
+          "title": "Planet Orbiting Multiple Stars"
+        },
+        {
+          "id": "125",
+          "mediaPath": "/media/OccultationGraphH264FullSize.mp4",
+          "thumbnailPath": "/thumbs/OccultationGraphH264FullSize_frame.png",
+          "description": "Since the early 1990's, astronomers have known that extrasolar planets, or \"exoplanets,\" orbit stars light-years beyond our own solar system. Although most exoplanets are too distant to be directly imaged, detailed studies have been made of their size, composition, and even atmospheric makeup - but how? By observing periodic variations in the parent star's brightness and color, astronomers can indirectly determine an exoplanet's distance from its star, its size, and its mass. But to truly understand an exoplanet astronomers must study its atmosphere, and they do so by splitting apart the parent star's light during a planetary transit.",
+          "type": "video",
+          "title": "Transit Method"
+        },
+        {
+          "id": "126",
+          "mediaPath": "/media/Orrery2sa-1.mp4",
+          "thumbnailPath": "/thumbs/Orrery2sa1_frame.png",
+          "description": "census of expolanets discovered by Kepler circa 2012",
+          "type": "video",
+          "title": "Kepler Orrery 2012"
+        },
+        {
+          "id": "127",
+          "mediaPath": "/media/orreryzoomd_ride.mp4",
+          "thumbnailPath": "/thumbs/orreryzoomdride_frame.png",
+          "description": "census of expolanets discovered by Kepler circa 2012",
+          "type": "video",
+          "title": "Kepler Orrery 3"
+        },
+        {
+          "id": "128",
+          "mediaPath": "/media/RangeOfViewsH264FullSize.mp4",
+          "thumbnailPath": "/thumbs/RangeOfViewsH264FullSize_frame.png",
+          "description": "Kepler exoplanet search range of field",
+          "type": "video",
+          "title": "Kepler: Planetary Inclinations"
+        },
+        {
+          "id": "129",
+          "mediaPath": "/media/RingFormationAroundExtrasolarPlanet.mp4",
+          "thumbnailPath": "/thumbs/RingFormationAroundExtrasolarPlanet_frame.png",
+          "description": "Formation of a ring around an extrasolar planet (artist's impression).",
+          "type": "video",
+          "title": "Ring Formation Around Extrasolar Planet"
+        },
+        {
+          "id": "130",
+          "mediaPath": "/media/RVDetection.mp4",
+          "thumbnailPath": "/thumbs/RVDetection_frame.png",
+          "description": "Demonstation of red and blue shift in exoplanet detection",
+          "type": "video",
+          "title": "Radial-Velocity Technique"
+        },
+        {
+          "id": "131",
+          "mediaPath": "/media/Stevenson+Etal-2014-WASP43b-MovieS1.mp4",
+          "thumbnailPath": "/thumbs/StevensonEtal2014WASP43bMovieS1_frame.png",
+          "description": "Time-lapse video of WASP-43b over one planet rotation. The left and right panels display the phase-resolved emission spectrum and thermal profile, respectively, with 1\u2248\u00ec\u221a\u00e2 uncertainty regions. There is a broad water absorption feature from 1.35 to 1.6 \u2248\u00ed\u00ac\u222bm. The rotating spheres depict longitudinally-resolved brightness temperature maps in three spectrophotometric channels. These results are based on spectroscopic phase-curve measurements of the hot-Jupiter exoplanet WASP-43b over three complete planet rotations using the Hubble Space Telescope and WFC3 instrument.",
+          "type": "video",
+          "title": "WASP-43b Emission Spectrum"
+        },
+        {
+          "id": "132",
+          "mediaPath": "/media/TheHuntforExomoons-LightcurveDemo-HD.mp4",
+          "thumbnailPath": "/thumbs/TheHuntforExomoonsLightcurveDemoHD_frame.png",
+          "description": "In addition to the host of new planets discovered by the Kepler mission, we are now capable of detecting large moons circling planets around other stars. These exomoons modify the shape, timing, and duration of the transit lightcurve of their host planet, and this illustration demonstrates all of these effects. New algorithms are being developed to detect these signatures in Kepler data, and if large moons are common in the universe, the first exomoon discovery could happen at any time.",
+          "type": "video",
+          "title": "Hunt for Exomoons"
+        },
+        {
+          "id": "133",
+          "mediaPath": "/media/TRAPPISTSoundsTRAPPIST-1PlanetarySystemTranslatedDirectlyIntoMusic.mp4",
+          "thumbnailPath": "/thumbs/TRAPPISTSoundsTRAPPIST1PlanetarySystemTranslatedDirectlyIntoMusic_frame.png",
+          "description": "Resonance of TRAPPIST-a orbits put to music",
+          "type": "video",
+          "title": "Sounds of TRAPPIST-1"
+        },
+        {
+          "id": "134",
+          "mediaPath": "/media/TRAPPIST-1PlanetaryOrbitsandTransits(ssc2017-01v4).mp4",
+          "thumbnailPath": "/thumbs/TRAPPIST1PlanetaryOrbitsTransitsssc201701v4_frame.png",
+          "description": "How tranist method discovered planets of TRAPPIST-1",
+          "type": "video",
+          "title": "TRAPPIST-1 Multiplanet System"
+        },
+        {
+          "id": "135",
+          "mediaPath": "/media/Worlds-TheKeplerPlanetCandidates-HD.mp4",
+          "thumbnailPath": "/thumbs/WorldsTheKeplerPlanetCandidatesHD_frame.png",
+          "description": "This animation shows the 2299 high-quality (multiple transits), non-circumbinary transiting planet candidates found by NASA's Kepler mission so far. These candidates were detected around 1770 unique stars, but are animated in orbit around a single star. They are drawn to scale with accurate radii (in r / r* ), orbital periods, and orbital distances (in d / r*). They range in size from 1/3 to 84 times the radius of Earth. Colors represent an estimate of equilibrium temperature, ranging from 4,586 C at the hottest to -110 C at the coldest - red indicates warmest, and blue / indigo indicates coldest candidates.The animation is rendered with a time-step of 30 minutes, equal to the long-cadence time sample of the Kepler observatory. Three white rings illustrate the average orbital distances of Mercury, Venus, and Earth on the same scale. When the system is animated edge-on, it is clear that there is no time during which the sample of stars the Kepler spacecraft is observing does not contain a planet transiting a star. In fact, on average there are dozens of transits occurring amongst the Kepler sample at any given instant. The Kepler observatory has detected a multitude of planet candidates orbiting distant stars. The current list contains 2321 planet candidates, though some of these have already been flagged as likely false-positives or contamination from binary stars. This animation does not contain circumbinary planets or planet candidates where only a single transit has been observed, which is why \"only\" 2299 are shown. I have illustrated the planet candidates as if they orbit a single star. Using a transit lightcurve, a planet's distance from a star and its radius are both measured in terms of the host stars' radius, and those relationships are preserved here. This means that for two planets of equal size, if one orbits a larger star it will be drawn smaller here. Similarly, because the orbital distances scale with the host stars' sizes, some planets orbit faster than others at a given distance from the star in the animation (when in reality, planets on circular orbits around a given star always orbit at the same speed at a given distance). These faster-moving planets are orbiting denser stars. A fraction of these candidates will likely be ruled out as false positives as time goes on, while the remainder stand to be confirmed as real planets by follow-up analysis. For example, the large orange object in a very close-in orbit was shown to be a background eclipsing binary blend by arxiv.org/abs/1207.2481 At the beginning of the animation, the grid of rectangles that briefly appears represents the focal plane array of CCD detectors onboard Kepler.",
+          "type": "video",
+          "title": "Kepler Planetary Candidates Ovelaid on Solar System"
+        },
+        {
+          "id": "367",
+          "mediaPath": "/media/5000_Exoplanets_Discovered.mp4",
+          "thumbnailPath": "/thumbs/5000_Exoplanets_Discovered.png",
+          "description": "In March 2022, the number of known exoplanets passed 5,000 according to the NASA Exoplanet Archive. This animation tracks their over time. As each exoplanet is discovered, a circle appears at its position in the sky. The size of the circle indicates the relative size of the planet's orbit and the color indicates which planet detection method was used to discover it. Credit: NASA/JPL-Caltech/M. Russo, A. Santaguida (SYSTEM Sounds).",
+          "type": "video",
+          "title": "Discovery of 5000 Exoplanets"
+        },
+        {
+          "id": "370",
+          "mediaPath": "/media/TESS_FOV_Animation.mp4",
+          "thumbnailPath": "/thumbs/TESS_FOV_Animation_frame.png",
+          "description": "Animation showing the TESS spacecraft and the coverage of its four cameras. Each camera covers a 24 degrees-square patch of sky and the four cameras are arranged in a vertical strip called an observation sector. Credit: NASA's Goddard Space Flight Center/CI Lab. ",
+          "type": "video",
+          "title": "TESS Field of View"
+        },
+        {
+          "id": "371",
+          "mediaPath": "/media/Exoplanet_Multiplanet_Transits.mp4",
+          "thumbnailPath": "/thumbs/Exoplanet_Multiplanet_Transits_frame.png",
+          "description": "When a planet passes directly between a star and its observer, it dims the star's light by a measurable amount. Light curves get complicated when more planets are transiting a star. The combined light curves can give us the same information as a single one, it just takes more work from astronomers to pick out each planet in the data. Credit: NASA's Jet Propulsion Laboratory. ",
+          "type": "video",
+          "title": "Light Curve Animation of Multiplanet System"
+        }
+      ]
+    },
+    {
+      "id": "Gaia",
+      "label": "Gaia",
+      "items": [
+        {
+          "id": "349",
+          "mediaPath": "/media/Gaia_Scanning_the_Sky.mp4",
+          "thumbnailPath": "/thumbs/Gaia_Scanning_the_Sky.png",
+          "description": "Gaia spacecraft spinning in space scanning the sky. Gaia's mission relies on the systematic and repeating observation of star positions in two fields of view. As the detectors repeatedly measure the position of each celestial object, they will detect any changes in the object's motion through space.To achieve its mission the spacecraft is spinning slowly, sweeping its two telescopes across the entire celestial sphere to make four complete rotations per day.\n\nCredit: ESA/C. Carreau",
+          "type": "video",
+          "title": "Gaia Scanning the Sky"
+        },
+        {
+          "id": "361",
+          "mediaPath": "/media/Gaia_BH1_BH2.mp4",
+          "thumbnailPath": "/thumbs/Gaia_BH1_BH2.png",
+          "description": "The two black holes were discovered by studying ultra-precise measurements of stellar positions and motions in Gaia's third data release. A strange 'wobble' in the movement of two stars on the sky indicated that they are orbiting a very massive object. Gaia BH1 is about 10 solar masses and orbiting a Sun-like main sequence star about 1560 lightyears away. Gaia BH2 is about 9 solar masses and orbiting a red giant about 3800 lightyears away. Credit: ESA/Gaia/DPAC.",
+          "type": "video",
+          "title": "Gaia Discovery of BH1 and BH2"
+        },
+        {
+          "id": "362",
+          "mediaPath": "/media/Gaia_Asteroids_DR3.mp4",
+          "thumbnailPath": "/thumbs/Gaia_Asteroids_DR3.png",
+          "description": "By far the largest group of Solar System objects in Gaia's data release 3 are the 154,741 asteroids for which Gaia has determined their orbits. Depending on their orbits one can distinguish different groups of asteroids. Credit: ESA/Gaia/DPAC.",
+          "type": "video",
+          "title": "Gaia Asteroids from DR3"
+        },
+        {
+          "id": "392",
+          "mediaPath": "/media/Star_Motions_Molleweide.mp4",
+          "thumbnailPath": "/thumbs/Star_Motions_Molleweide_frame.png",
+          "description": "This animation shows the proper motions of 40,000 stars, all located within 100 parsecs (326 light years) of the Solar System. The animation begins with the stars in their current positions; the brightness of each dot representing the brightness of the star it represents. As the animation begins, the trails grow, showing how the stars will change position over the next 80,000 years. The animation ends by showing star trails for 400 thousand years into the future. Credit: ESA/Gaia/DPAC. ",
+          "type": "video",
+          "title": "Stellar Motions from Gaia (Molleweide Projection)"
+        },
+        {
+          "id": "393",
+          "mediaPath": "/media/Star_Motions_Timelapse.mp4",
+          "thumbnailPath": "/thumbs/Star_Motions_Timelapse_frame.png",
+          "description": "This video reveals the changing face of our Galaxy, tracing the motion of two million stars five million years into the future using data from the Tycho-Gaia Astrometric Solution. The frames in the video are separated by 750 years. Credit: ESA/Gaia/DPAC. ",
+          "type": "video",
+          "title": "Stellar Motion Timelapse from Gaia"
+        },
+        {
+          "id": "394",
+          "mediaPath": "/media/Gaia_Milky_Way.mp4",
+          "thumbnailPath": "/thumbs/Gaia_Milky_Way_frame.png",
+          "description": "For over a decade, ESA's Gaia mission has mapped our galaxy with stunning precision, rewriting the story of the Milky Way. This visalization looks at some of its its most groundbreaking discoveries. Credit: ESA - European Space Agency. ",
+          "type": "video",
+          "title": "Milky Way's History from Gaia"
+        },
+        {
+          "id": "395",
+          "mediaPath": "/media/Orion_Stars_Motion_Gaia.mp4",
+          "thumbnailPath": "/thumbs/Orion_Stars_Motion_Gaia_frame.png",
+          "description": "This video reveals how our view of the Orion constellation will evolve over the next 450,000 years. Amid a myriad of drifting stars, the shape of Orion as defined by its brightest stars is slowly rearranged into a new pattern as time goes by. The video is based on data from ESA's Gaia and Hipparcos satellites, as well as additional information from ground-based observations. Credit: ESA/Gaia/DPAC. ",
+          "type": "video",
+          "title": "Orion's Stars in Motion"
+        }
+      ]
+    },
+    {
+      "id": "Galaxies",
+      "label": "Galaxies",
+      "items": [
+        {
+          "id": "136",
+          "mediaPath": "/media/HUDFFlyThrough.mp4",
+          "thumbnailPath": "/thumbs/HUDFFlyThrough_frame.png",
+          "description": "Hubble Ultra Deep Field Fly Through visualization",
+          "type": "video",
+          "title": "HUDF Fly Through"
+        },
+        {
+          "id": "137",
+          "mediaPath": "/media/Theformationofalargespiralgalaxy.mp4",
+          "thumbnailPath": "/thumbs/Theformationofalargespiralgalaxy_frame.png",
+          "description": "Animation of the formation of a spiral galaxy similar to the Milky Way",
+          "type": "video",
+          "title": "The Formation of a Large Spiral Galaxy"
+        },
+        {
+          "id": "138",
+          "mediaPath": "/media/Hubblestudiesdifferentstagesinthecollisionbetweengalaxies.mp4",
+          "thumbnailPath": "/thumbs/Hubblestudiesdifferentstagesinthecollisionbetweengalaxies_frame.png",
+          "description": "Images of galaxy mergers from Hubble Space Telescope",
+          "type": "video",
+          "title": "Hubble Images of Merging Galaxies"
+        },
+	{
+		"id": "139",
+          "mediaPath": "/media/MWAndromedaCollisionSkyView.mp4",
+          "thumbnailPath": "/thumbs/MWAndromedaCollisionSkyView_frame.png",
+          "description": "This video series of photo illustrations shows the predicted merger between our Milky Way galaxy and the neighboring Andromeda galaxy, as it will unfold over the next several billion years. The sequence is inspired by dynamical computer modeling of the inevitable future collision between the two galaxies. The sequence starts at the present day, with the Andromeda galaxy 2.5 million light-years away, and steps through to 7 billion years from now, when the merged galaxies form a huge elliptical galaxy. These illustrations depict the view from about 25,000 light-years away from the center of the Milky Way. The future view from our solar system will most likely be markedly different, depending on how the Sun's orbit within the galaxy changes during the collision.",
+          "type": "video",
+          "title": "Milky Way + Andromeda Merger Simulation (Earth View)"
+        },
+        {
+          "id": "140",
+          "mediaPath": "/media/labelsloop.mp4",
+          "thumbnailPath": "/thumbs/labelsloop_frame.png",
+          "description": "Virgo Cluster Galaxies",
+          "type": "video",
+          "title": "Virgo Cluster Galaxies"
+        },
+        {
+          "id": "141",
+          "mediaPath": "/media/LocalClustersGasTemp.mp4",
+          "thumbnailPath": "/thumbs/LocalClustersGasTemp_frame.png",
+          "description": "Virgo Cluster Gas Temperature",
+          "type": "video",
+          "title": "Virgo Cluster Gas Temperature"
+        },
+        {
+          "id": "142",
+          "mediaPath": "/media/LSEvolutionwMultipleParameters.mp4",
+          "thumbnailPath": "/thumbs/LSEvolutionwMultipleParameters_frame.png",
+          "description": "Large Scale evolution showing parameters of dark matter, gas density, gas temperature, etc",
+          "type": "video",
+          "title": "Large Scale Evolution Showing Various Parameters"
+        },
+        {
+          "id": "143",
+          "mediaPath": "/media/arepo_object15_final.mp4",
+          "thumbnailPath": "/thumbs/arepoobject15final_frame.png",
+          "description": "Arepo Simulation of Galaxy Formation",
+          "type": "video",
+          "title": "Arepo Simulation of Galaxy Formation"
+        },
+        {
+          "id": "144",
+          "mediaPath": "/media/HiResBullet.mp4",
+          "thumbnailPath": "/thumbs/HiResBullet_frame.png",
+          "description": "This simulation shows the separation of dark matter (blue) from luminous matter (red) in the bullet cluster, then rotates the result for a 360-degree view. (44 secs)",
+          "type": "video",
+          "title": "Bullet Cluster Simulation"
+        },
+        {
+          "id": "145",
+          "mediaPath": "/media/B1_hr_Aug27_2013_egylim_720p.mp4",
+          "thumbnailPath": "/thumbs/B1hrAug272013egylim720p_frame.png",
+          "description": "This movie is of a galaxy with similar mass as the Milky Way, but one which experienced a more violent history. This has many mergers -- violent collisions -- with other galaxies, over a wide range of times. As a result, the well-ordered disk seen for gentler histories in this case never has as much chance to survive and grow before it is destroyed by these encounters. This movie shows (using a new and improved GIZMO code) shows the gas (on 200 kpc scales, as in the movies at the top of this page) face-on and edge-on, and the stars as well in the same projections (zoomed-in to the same 50 kpc scales as before).",
+          "type": "video",
+          "title": "Simulation of Milky Way-like Galaxy with Major Mergers"
+        },
+        {
+          "id": "146",
+          "mediaPath": "/media/m12_hr_Sep10_2013_both_720p.mp4",
+          "thumbnailPath": "/thumbs/m12hrSep102013both720p_frame.png",
+          "description": "Side-by-side movies of a simulation starting from slightly different initial conditions, with a different color scheme designed to highlight the cosmic web feeding the galaxies.",
+          "type": "video",
+          "title": "Galaxies Forming with Different Initial Conditions"
+        },
+        {
+          "id": "147",
+          "mediaPath": "/media/m12_mr_gas_r200.mp4",
+          "thumbnailPath": "/thumbs/m12mrgasr200_frame.png",
+          "description": "This is a FIRE (Feedback In Realistic Environments) project movie showing the formation of a galaxy, similar in mass to the Milky Way, from early times (redshift z=100) to the present. The scale is fixed at 200 physical kiloparsecs on a side (so at early times, the galaxies occupy only a small fraction of this). Massive outflows driven by feedback from stars are plainly evident, and especially at early times have a dramatic impact on the surrounding inter-galactic medium. At later times, things calm down and a more relaxed disk starts to form. This shows the gas from the same simulation, but on a larger scale (200 kpc, instead of 50). Here you can see much more of the structure of the surrounding inter-galactic medium, the cosmic web and how it is impacted by galactic winds.",
+          "type": "video",
+          "title": "FIRE Simulation: Gas on a Larger Scale"
+        },
+        {
+          "id": "148",
+          "mediaPath": "/media/m12_mr_gas_r50.mp4",
+          "thumbnailPath": "/thumbs/m12mrgasr50_frame.png",
+          "description": "This is a FIRE (Feedback In Realistic Environments) project movie showing the formation of a galaxy, similar in mass to the Milky Way, from early times (redshift z=100) to the present. The scale is fixed at 50 physical kiloparsecs on a side (so at early times, the galaxies occupy only a small fraction of this). Massive outflows driven by feedback from stars are plainly evident, and especially at early times have a dramatic impact on the surrounding inter-galactic medium. At later times, things calm down and a more relaxed disk starts to form. This shows the gas from the same simulation, but on a larger scale (200 kpc, instead of 50). Here you can see much more of the structure of the surrounding inter-galactic medium, the cosmic web and how it is impacted by galactic winds.",
+          "type": "video",
+          "title": "FIRE Simulation: Gas on a Smaller Scale"
+        },
+        {
+          "id": "149",
+          "mediaPath": "/media/m12_mr_star_r50.mp4",
+          "thumbnailPath": "/thumbs/m12mrstarr50_frame.png",
+          "description": "This is a FIRE (Feedback In Realistic Environments) project movie showing the formation of a galaxy, similar in mass to the Milky Way, from early times (redshift z=100) to the present. The scale is fixed at 50 physical kiloparsecs on a side (so at early times, the galaxies occupy only a small fraction of this). Massive outflows driven by feedback from stars are plainly evident, and especially at early times have a dramatic impact on the surrounding inter-galactic medium. At later times, things calm down and a more relaxed disk starts to form. This shows the gas from the same simulation, but on a larger scale (200 kpc, instead of 50). Here you can see much more of the structure of the surrounding inter-galactic medium, the cosmic web and how it is impacted by galactic winds.",
+          "type": "video",
+          "title": "FIRE Simulation: Stars on a Smaller Scale"
+        },
+        {
+          "id": "150",
+          "mediaPath": "/media/sbcn_hr_f_gas_c_alt.mp4",
+          "thumbnailPath": "/thumbs/sbcnhrfgascalt_frame.png",
+          "description": "This movie shows the gas in a galaxy merger with feedback from massive stars. Color shows gas temperature, with cold star-forming molecular clouds (<100 K) in blue/violet, warm ionized gas (10^4 K) in pink/red, and hot X-ray emitting gas (>10^6 K) in yellow. Intensity reflects the projected gas surface density (scaled logarithmically).",
+          "type": "video",
+          "title": "Galaxies Merger Simulation: Gas"
+        },
+        {
+          "id": "151",
+          "mediaPath": "/media/sbcn_hr_f_stars_c.mp4",
+          "thumbnailPath": "/thumbs/sbcnhrfstarsc_frame.png",
+          "description": "This movie shows the starlight in a galaxy merger with feedback from massive stars. Each frame is a mock three-color optical image (Sloan ugr bands). Young star clusters which have blown away their natal molecular clouds appear as blue points; obscuration by gas and dust appears as the dark red/brown dust lanes.",
+          "type": "video",
+          "title": "Galaxies Merger Simulation: Stars"
+        },
+        {
+          "id": "152",
+          "mediaPath": "/media/CollidingGalaxiesWithMBH.mp4",
+          "thumbnailPath": "/thumbs/CollidingGalaxiesWithMBH_frame.png",
+          "description": "Simulation of 2 galaxies in the process of merging (similar to start of Uniview Galaxy Merger sim)",
+          "type": "video",
+          "title": "Galaxy Merger Simulation (Face-On)"
+        },
+        {
+          "id": "153",
+          "mediaPath": "/media/galaxies_movie.mp4",
+          "thumbnailPath": "/thumbs/galaxiesmovie_frame.png",
+          "description": "Simulation of 2 galaxies edge on merging",
+          "type": "video",
+          "title": "Galaxy Merger Simulation (Edge-On)"
+        },
+        {
+          "id": "154",
+          "mediaPath": "/media/MWAndromedaCollisionVis.mp4",
+          "thumbnailPath": "/thumbs/MWAndromedaCollisionVis_frame.png",
+          "description": "The three largest galaxies in our Local Group of Galaxies are our Milky Way along with the Andromeda (also known as Messier 31) and Triangulum (also known as Messier 33) galaxies. This scientific visualization of a computer simulation depicts their joint evolution over the next several billion years and features the inevitable massive collision between the Milky Way and Andromeda. Hubble Space Telescope observations indicate that the two galaxies, pulled together by their mutual gravity, will crash together in a head-on collision about 4 billion years from now. The thin disk shapes of these spiral galaxies are strongly distorted and irrevocably transformed by the encounter. Around 6 billion years from now, the two galaxies will merge to form a single elliptical galaxy. The Triangulum galaxy continues to orbit the merged pair through the end of this computer simulation, though other computer models show it becoming part of the collision. The visualization covers 8.2 billion years into the future at 105 million years per second. Colors are representative: light blue for spiral galaxies (considered \"blue\" in astronomy parlance because of their active star formation) and orange-yellow for elliptical galaxies (called \"red\" by astronomers for their old stellar populations). A random background field of galaxies has been added to the simulation in order to indicate the camera motion through the simulation volume.",
+          "type": "video",
+          "title": "Milky Way + Andromeda Merger Viewed from Earth"
+        },
+        {
+          "id": "155",
+          "mediaPath": "/media/volker_merger_fourpanel.mp4",
+          "thumbnailPath": "/thumbs/volkermergerfourpanel_frame.png",
+          "description": "No Description?",
+          "type": "video",
+          "title": "Galaxy Merger Simulation: 4 Views"
+        },
+        {
+          "id": "156",
+          "mediaPath": "/media/MW_e.mp4",
+          "thumbnailPath": "/thumbs/MWe_frame.png",
+          "description": "Side-by-side simulations from Arepo and Gadget",
+          "type": "video",
+          "title": "Arepo vs Gadget"
+        },
+        {
+          "id": "157",
+          "mediaPath": "/media/SpiralDensityWaves.mp4",
+          "thumbnailPath": "/thumbs/SpiralDensityWaves_frame.png",
+          "description": "Spiral Density Waves in Milky Way-like Galaxies",
+          "type": "video",
+          "title": "Spiral Density Waves in Milky Way-like Galaxies"
+        },
+        {
+          "id": "158",
+          "mediaPath": "/media/galmerger-kaehler-TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/galmergerkaehlerTB_frame.png",
+          "description": "This simulation shows the formation of large-scale structures and massive galaxies in the early universe. The central galaxy at the end of the simulation harbors about 1 trillion solar masses in the form of gas, stars, and dark matter.",
+          "type": "video",
+          "title": "Galaxy Cluster Formation and Galaxy Mergers"
+        },
+        {
+          "id": "159",
+          "mediaPath": "/media/arp273_3dtb-1920x1080p30_converted2D.mp4",
+          "thumbnailPath": "/thumbs/arp2733dtb1920x1080p30_frame.png",
+          "description": "The hummingbird and the Rose, interacting galaies Arp 273.",
+          "type": "video",
+          "title": "Interacting Galaxies (Arp 273)"
+        },
+        {
+          "id": "160",
+          "mediaPath": "/media/hercules_a_3dtb-1920x1080_converted2D.mp4",
+          "thumbnailPath": "/thumbs/herculesa3dtb1920x1080_frame.png",
+          "description": "Active Galaxy Hercules A (Visible and Radio)",
+          "type": "video",
+          "title": "Active Galaxy (Hercules A)"
+        },
+        {
+          "id": "161",
+          "mediaPath": "/media/newquasar_all_stereo_converted2D.mp4",
+          "thumbnailPath": "/thumbs/newquasarallstereo_frame.png",
+          "description": "Visualization of several active galactic centers with jets of x-ray and radio wavelengths",
+          "type": "video",
+          "title": "Quasar Animation and Quasar Host Galaxies"
+        },
+        {
+          "id": "162",
+          "mediaPath": "/media/Saggitarius_Streams_converted2D.mp4",
+          "thumbnailPath": "/thumbs/SaggitariusStreams_frame.png",
+          "description": "Streams of stars have been tidally stripped from the dwarf galaxy Sagittarius due to interactions with the Milky Way galaxy. The data is from a simulation of the Law and Majewski (2010) model of Sgr orbiting in a triaxial Galactic potential. http://www.astro.virginia.edu/~srm4n/Sgr/data.html",
+          "type": "video",
+          "title": "Saggitarius Streams"
+        },
+        {
+          "id": "363",
+          "mediaPath": "/media/M31_PHAT_Mosaic.mp4",
+          "thumbnailPath": "/thumbs/M31_PHAT_Mosaic.png",
+          "description": "The largest photomosaic ever assembled from Hubble Space Telescope observations. It took over 10 years to make this vast and colorful portrait of the Andromeda Galaxy, requiring over 600 Hubble snapshots. The mosaic captures the glow of 200 million stars. The camera pans along the galaxy's vast disk which is over 200,000 light-years across. Credit: NASA, ESA, Gregory Bacon (STScI), Benjamin Williams (UWashington).",
+          "type": "video",
+          "title": "M31 PHAT Mosaic"
+        },
+        {
+          "id": "365",
+          "mediaPath": "/media/Galaxy_Collision-Simulation_JWST_Science.mp4",
+          "thumbnailPath": "/thumbs/Galaxy_Collision-Simulation_JWST_Science.png",
+          "description": "This visualization shows two colliding galaxies that merge into a single elliptical galaxy over a period spanning two billion years. Credits: NCSA, NASA, B. Robertson, L. Hernquist. ",
+          "type": "video",
+          "title": "Galaxy Collision Simulation"
+        },
+        {
+          "id": "368",
+          "mediaPath": "/media/DESI_Galaxies.mp4",
+          "thumbnailPath": "/thumbs/DESI_Galaxies.png",
+          "description": "DESI has made the largest 3D map of our Universe to date and uses it to study dark energy. Earth is at the center in this animation, where bluer points indicate more distant objects. DESI is mounted on the Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory. Credit: DESI Collaboration/DOE/KPNO/NOIRLab/NSF/AURA/R. Proctor. ",
+          "type": "video",
+          "title": "DESI Galaxy Map"
+        }
+      ]
+    },
+    {
+      "id": "Gravitational Waves",
+      "label": "Gravitational Waves",
+      "items": [
+        {
+          "id": "164",
+          "mediaPath": "/media/MergeranimationGW170817.mp4",
+          "thumbnailPath": "/thumbs/MergeranimationGW170817_frame.png",
+          "description": "Animation of double neutron star merger (GW170817) that produced gravitational waves, a gamma-ray burst, and a kilonova",
+          "type": "video",
+          "title": "Double Neutron Star Merger Animation"
+        },
+        {
+          "id": "167",
+          "mediaPath": "/media/Bbh_Embedding_0093r_Large.mp4",
+          "thumbnailPath": "/thumbs/BbhEmbedding0093rLarge_frame.png",
+          "description": "Simulation of binary black hole merger with spacetime curvature",
+          "type": "video",
+          "title": "Binary Black Hole Merger Bending Spacetime"
+        },
+        {
+          "id": "168",
+          "mediaPath": "/media/waves.mp4",
+          "thumbnailPath": "/thumbs/waves_frame.png",
+          "description": "Animation of a binary black hole emitting gravitational waves",
+          "type": "video",
+          "title": "Gravitational Waves Distorting Spacetime"
+        },
+        {
+          "id": "169",
+          "mediaPath": "/media/BlackHoleWaves.mp4",
+          "thumbnailPath": "/thumbs/BlackHoleWaves_frame.png",
+          "description": "Merging black holes produce gravitational waves",
+          "type": "video",
+          "title": "Black Holes Producing Gravitational Waves"
+        },
+        {
+          "id": "170",
+          "mediaPath": "/media/BlackHolesMerging.mp4",
+          "thumbnailPath": "/thumbs/BlackHolesMerging_frame.png",
+          "description": "Visualization of black hole meger",
+          "type": "video",
+          "title": "GW150914 Visualization"
+        },
+        {
+          "id": "171",
+          "mediaPath": "/media/boxingDay_Chirps_Combined-R1b.mp4",
+          "thumbnailPath": "/thumbs/boxingDayChirpsCombinedR1b_frame.png",
+          "description": "Sound of 12/26/2015 \"chirp\"",
+          "type": "video",
+          "title": "GW151226 Chirp"
+        },
+        {
+          "id": "172",
+          "mediaPath": "/media/GW151226_Horizons_24FPS_1080p.mp4",
+          "thumbnailPath": "/thumbs/GW151226Horizons24FPS1080p_frame.png",
+          "description": "Inspiral and strain of GW151226",
+          "type": "video",
+          "title": "GW151226 Strain and Inspiral"
+        },
+        {
+          "id": "173",
+          "mediaPath": "/media/PreciseRuler.mp4",
+          "thumbnailPath": "/thumbs/PreciseRuler_frame.png",
+          "description": "Simulation of how LIGO works",
+          "type": "video",
+          "title": "Gravitaitonal Waves are a Precise Ruler"
+        },
+        {
+          "id": "174",
+          "mediaPath": "/media/SoundogBlackHolesColliding.mp4",
+          "thumbnailPath": "/thumbs/SoundogBlackHolesColliding_frame.png",
+          "description": "Sound of 09/15/2015 \"chirp\"",
+          "type": "video",
+          "title": "GW150914 Chirp"
+        },
+        {
+          "id": "175",
+          "mediaPath": "/media/WarpedSpace.mp4",
+          "thumbnailPath": "/thumbs/WarpedSpace_frame.png",
+          "description": "How merging black holes warp space time",
+          "type": "video",
+          "title": "Binary Black Hole Merger in Numerical Relativity"
+        },
+        {
+          "id": "176",
+          "mediaPath": "/media/HistoryofNSsinGalaxy.mp4",
+          "thumbnailPath": "/thumbs/HistoryofNSsinGalaxy_frame.png",
+          "description": "Potential orbital trajectories of the GW170817 progenitor system in its host galaxy NGC4993",
+          "type": "video",
+          "title": "Orbital Motion of GW170817 Progenitor"
+        },
+        {
+          "id": "177",
+          "mediaPath": "/media/LocalizationOfGW170817.mp4",
+          "thumbnailPath": "/thumbs/LocalizationOfGW170817_frame.png",
+          "description": "How neutron star merger GW170817 was located and the host galaxy determined (CREDIT- LIGO-Virgo)",
+          "type": "video",
+          "title": "Localization of GW170817"
+        },
+        {
+          "id": "178",
+          "mediaPath": "/media/SimulationNSMergerCREDIT-W.Kastaun_T.Kawamura_B.Giacomazzo_R.Ciolfi_A.Endrizzi.mp4",
+          "thumbnailPath": "/thumbs/SimulationNSMergerCREDITW_frame.png",
+          "description": "Simulation of neutron star merger GW170817 (CREDIT - W. Kastaun_T. Kawamura_B. Giacomazzo_R. Ciolfi_A. Endrizzi)",
+          "type": "video",
+          "title": "Binary Neutron Star Merger Simulation"
+        },
+        {
+          "id": "179",
+          "mediaPath": "/media/WaveformsandChirpCREDIT-LIGO_UniversityofOregon_BenFarr.mp4",
+          "thumbnailPath": "/thumbs/WaveformsandChirpCREDITLIGOUniversityofOregonBenFarr_frame.png",
+          "description": "Comparison of waveforms for binary black hole mergers from the first two observing runs of the LIGO--Virgo network and binary neutron star merger GW170817",
+          "type": "video",
+          "title": "Waveforms and Chirps from Second Observing Run"
+        },
+        {
+          "id": "373",
+          "mediaPath": "/media/GWs_Earth_Exaggerated.mp4",
+          "thumbnailPath": "/thumbs/GWs_Earth_Exaggerated_frame.png",
+          "description": "Visual exaggeration of how gravitational waves stretch and squeeze Earth. LIGO detectors were able to measure the stretching and squeezing of space with a precision equivalent to 1/1000th the diameter of a proton. That's like measuring the distance to the nearest star down to a precision level of just a fraction of the thickness of a human hair. Credit: R. Hurt, Caltech/MIT/LIGO Lab. ",
+          "type": "video",
+          "title": "Gravitational Waves Wobbling Earth"
+        },
+        {
+          "id": "374",
+          "mediaPath": "/media/gw230529_animation.mp4",
+          "thumbnailPath": "/thumbs/gw230529_animation_frame.png",
+          "description": "Coalescence and merger of a lower mass-gap merger GW230529. The black hole is the dark grey surface, and the neutron star has colors ranging from dark orange (1 million tons per cubic centimeter) to white (600 million tons per cubic centimeter). The animation is accompanied by the gravitational wave signal, and the gravitational waveform is shown at the bottom of the video, with a moving marker displaying the time relative to the merger. Credit: I. Markin, T. Dietrich, H. Pfeiffer, A. Buonanno. ",
+          "type": "video",
+          "title": "GW230529 Visualization"
+        },
+        {
+          "id": "375",
+          "mediaPath": "/media/Chaotic_BH_Interaction_Eccentric_Merger_1.mp4",
+          "thumbnailPath": "/thumbs/Chaotic_BH_Interaction_Eccentric_Merger_1_frame.png",
+          "description": "This simulation is of a gravitational-wave capture that results from the chaotic encounter of four black holes, which can occur at the cores of dense stellar systems such as globular clusters. Such encounters can lead to long-lived resonating interactions, through which many temporary binary systems are created. The formation of a highly eccentric binary leads to a rapid merger due to gravitational wave emission zapping orbital energy. Credit: Mike Zevin.",
+          "type": "video",
+          "title": "Chaotic Black Hole Interaction and Eccentric Merger (1)"
+        },
+        {
+          "id": "376",
+          "mediaPath": "/media/Chaotic_BH_Interaction_Eccentric_Merger_2.mp4",
+          "thumbnailPath": "/thumbs/Chaotic_BH_Interaction_Eccentric_Merger_2_frame.png",
+          "description": "This simulation is of a gravitational-wave capture that results from the chaotic encounter of four black holes, which can occur at the cores of dense stellar systems such as globular clusters. Such encounters can lead to long-lived resonating interactions, through which many temporary binary systems are created. The formation of a highly eccentric binary leads to a rapid merger due to gravitational wave emission zapping orbital energy. Credit: Mike Zevin.",
+          "type": "video",
+          "title": "Chaotic Black Hole Interaction and Eccentric Merger (2)"
+        }
+      ]
+    },
+    {
+      "id": "Gravitational Lensing",
+      "label": "Gravitational Lensing",
+      "items": [
+        {
+          "id": "165",
+          "mediaPath": "/media/eso1825b.mp4",
+          "thumbnailPath": "/thumbs/eso1825b_frame.png",
+          "description": "Gravitational lension of star by black hole",
+          "type": "video",
+          "title": "Gravitational Lensing Animation"
+        },
+        {
+          "id": "166",
+          "mediaPath": "/media/StrongLensingDemonstration.mp4",
+          "thumbnailPath": "/thumbs/StrongLensingDemonstration_frame.png",
+          "description": "Diagram showing how graviatonal lensing works with a galaxy cluster",
+          "type": "video",
+          "title": "Strong Lensing Demonstration"
+        }
+      ]
+    },
+    {
+      "id": "History of Astronomy",
+      "label": "History of Astronomy",
+      "items": [
+        {
+          "id": "180",
+          "mediaPath": "/media/HerschelModel_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/HerschelModelTB_frame.png",
+          "description": "3D visualization of how William Herschel preceived the universe",
+          "type": "video",
+          "title": "Herschel's Universe Model"
+        },
+        {
+          "id": "181",
+          "mediaPath": "/media/WrightModel_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/WrightModelTB_frame.png",
+          "description": "Thomas Wright (1750) thought of Milky Way as a thin spherical shell of stars",
+          "type": "video",
+          "title": "Wright's Universe Model"
+        }
+      ]
+    },
+    {
+      "id": "Instrumentation",
+      "label": "Instrumentation",
+      "items": [
+        {
+          "id": "350",
+          "mediaPath": "/media/DESIRoboticPositioners.mp4",
+          "thumbnailPath": "/thumbs/DESIRoboticPositioners_frame.png",
+          "description": "An array of DESI robotic positioners, each equipped with a fiber-optic cable that will gather light from distant galaxies and other space objects. Credit: DESI Media Kit. ",
+          "type": "video",
+          "title": "DESI Robotic Positioners"
+        }
+      ]
+    },
+    {
+      "id": "Jupiter",
+      "label": "Jupiter",
+      "items": [
+        {
+          "id": "182",
+          "mediaPath": "/media/Animation_of_Jupiter_Triple_Moon_Shadow_Transit_January_23_2015.mp4",
+          "thumbnailPath": "/thumbs/AnimationofJupiterTripleMoonShadowTransitJanuary232015_frame.png",
+          "description": "Friday, January 23, 2015 offers a rare opportunity to observe three of the shadows of Jupiter\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s four largest moons on Jupiter\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s disk at the same time. The rare triple shadow event will not be visible again from Los Angeles until 2032. As if the triple shadow transit weren't enough, there will also be a rare eclipse of Jupiter's moon, Io, by the shadow of Jupiter's moon, Callisto. This animation illustrates what the event might look like. A clock in the lower right corner gives the timing of the events.",
+          "type": "video",
+          "title": "Shadows of Galilean Moons on Jupiter"
+        },
+        {
+          "id": "183",
+          "mediaPath": "/media/Europa_Conamara_short_zoom.mp4",
+          "thumbnailPath": "/thumbs/EuropaConamarashortzoom_frame.png",
+          "description": "Close up images of Europa",
+          "type": "video",
+          "title": "Images of Europa"
+        },
+        {
+          "id": "184",
+          "mediaPath": "/media/EuropaRidgeZoom.mp4",
+          "thumbnailPath": "/thumbs/EuropaRidgeZoom_frame.png",
+          "description": "Closeup of ice ridges on Europa",
+          "type": "video",
+          "title": "Images of Ice Ridges on Europa"
+        },
+        {
+          "id": "185",
+          "mediaPath": "/media/Jupiter-Magnetosphere.mp4",
+          "thumbnailPath": "/thumbs/JupiterMagnetosphere_frame.png",
+          "description": "Animation of Jupiter's magnetic field",
+          "type": "video",
+          "title": "Jupiter's Magnetosphere"
+        },
+        {
+          "id": "186",
+          "mediaPath": "/media/JupiterCloudBands.mp4",
+          "thumbnailPath": "/thumbs/JupiterCloudBands_frame.png",
+          "description": "Images of cloud bands on Jupiter",
+          "type": "video",
+          "title": "Jupiter's Cloud Bands"
+        }
+      ]
+    },
+    {
+      "id": "JWST",
+      "label": "JWST",
+      "items": [
+        {
+          "id": "364",
+          "mediaPath": "/media/JWST_Cosmic_Cliffs_3D.mp4",
+          "thumbnailPath": "/thumbs/JWST_Cosmic_Cliffs_3D.png",
+          "description": "This visualization presents a flight through the ethereal landscape of JWST's famous image nicknamed 'Cosmic Cliffs.' These cliffs are a spectacular ridge of dust clouds, sparkling with a myriad of stars, along the edge of the nebula Gum 31. In a 3D exploration, the sequence examines features like dust pillars, stellar jets, and misty streams of ionized gas. Credit: NASA's Universe of Learning, Gregory Bacon, Frank Summers; Ralf Crawford, Joseph DePasquale, Leah Hustak, Danielle Kirshenblat, Christian Nieves, Joseph Olmsted, Alyssa Pagan. ",
+          "type": "video",
+          "title": "JWST's View of the Cosmic Cliffs in 3D"
+        },
+        {
+          "id": "366",
+          "mediaPath": "/media/Serpens_Tour_JWST.mp4",
+          "thumbnailPath": "/thumbs/Serpens_Tour_JWST.png",
+          "description": "This video tours the Serpens Nebula, a star-forming region that lies 1,300 light-years away from Earth. A new image of Serpens from NASA's James Webb Space Telescope shows an intriguing group of aligned protostellar outflows within one region of the nebula. Credit: NASA, ESA, CSA, STScI, Danielle Kirshenbla, Klaus Pontoppidan, Joel Green. ",
+          "type": "video",
+          "title": "A Tour of the Serpens Nebula"
+        },
+        {
+          "id": "381",
+          "mediaPath": "/media/JWST_L2_Orbit_Animation.mp4",
+          "thumbnailPath": "/thumbs/JWST_L2_Orbit_Animation_frame.png",
+          "description": "The James Webb Space Telescope orbits the Sun, 1.5 million kilometers (1 million miles) away from the Earth at what is called the second Lagrange point or L2. What is special about this orbit is that it lets the telescope stay in line with the Earth as it moves around the Sun. This allows the satellite's large sunshield to protect the telescope from the light and heat of the Sun and Earth (and Moon). Credit: NASA's Goddard Space Flight Center. ",
+          "type": "video",
+          "title": "JWST L2 Orbit Animation"
+        },
+        {
+          "id": "382",
+          "mediaPath": "/media/JWST_Launch_L2_Orbit_Animation.mp4",
+          "thumbnailPath": "/thumbs/JWST_Launch_L2_Orbit_Animation_frame.png",
+          "description": "This visualization begins with a top-down view of the Earth-Sun system, with Lagrange points L3, L4, and L5 labeled. A magnified view of Earth appears, showing L1 and L2. The camera pushes into Earth as the James Webb Space Telescope is launched. The camera pulls back to a top-down view as JWST arrives at L2. A yellow arrow points to the Sun's position. Credit: NASA's Scientific Visualization Studio. ",
+          "type": "video",
+          "title": "JWST Launch and Orbit Animation"
+        },
+        {
+          "id": "383",
+          "mediaPath": "/media/JWST_Deployment_Animation.mp4",
+          "thumbnailPath": "/thumbs/JWST_Deployment_Animation_frame.png",
+          "description": "Deployment animation of the James Webb Space Telescope. Credit: NASA's Goddard Space Flight Center Conceptual Image Lab. ",
+          "type": "video",
+          "title": "JWST Deployment Animation"
+        },
+        {
+          "id": "384",
+          "mediaPath": "/media/Pillars_JWST_Hubble_3DTour.mp4",
+          "thumbnailPath": "/thumbs/Pillars_JWST_Hubble_3DTour_frame.png",
+          "description": "This scientific visualization explores the iconic Pillars of Creation in the Eagle Nebula (M16) using data from NASA's Hubble and Webb space telescopes. Based on scientific results, astronomers and artists modeled this striking formation in three dimensions and created a movie that allows viewers to fly past and among the pillars. What can appear to be three pillars in a two-dimensional image separates into four dust clouds with ionized gas streaming away from each in the three-dimensional model. Credit: G. Bacon, R. Crawford, J. DePasquale, L. Hustak, D. Kirshenblat, C. Nieves, J. Olmsted, A. Pagan, F. Summers, R. Hurt. ",
+          "type": "video",
+          "title": "Pillars of Creation 3D Tour"
+        },
+        {
+          "id": "385",
+          "mediaPath": "/media/Cosmic_Cliffs_JWST_Hubble.mp4",
+          "thumbnailPath": "/thumbs/Cosmic_Cliffs_JWST_Hubble_frame.png",
+          "description": "Eta Carinae Nebula (NGC 3372) views from Hubble and JWST. Captured in infrared light by the Near-Infrared Camera (NIRCam) reveals previously invisible areas of star birth. What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region known as NGC 3324. Called the Cosmic Cliffs, this rim of a gigantic, gaseous cavity is roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula's wall by slowly eroding it away. Credit: NASA, ESA, CSA, STScI. ",
+          "type": "video",
+          "title": "Cosmic Cliffs JWST vs Hubble"
+        },
+        {
+          "id": "386",
+          "mediaPath": "/media/Pillars_JWST_Hubble.mp4",
+          "thumbnailPath": "/thumbs/Pillars_JWST_Hubble_frame.png",
+          "description": "Pillars of Creation in the Eagle Nebula, about 6500 lightyears away, as viewed by Hubble and JWST. Newly formed stars are the scene-stealers in this Near-Infrared Camera (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly. Credit: NASA, ESA, CSA, STScI. ",
+          "type": "video",
+          "title": "Pillars of Creation JWST vs Hubble"
+        },
+        {
+          "id": "387",
+          "mediaPath": "/media/Southern_Ring_Nebula_JWST_Hubble.mp4",
+          "thumbnailPath": "/thumbs/Southern_Ring_Nebula_JWST_Hubble_frame.png",
+          "description": "Southern Ring Nebula as viewed by Hubble and JWST. By observing the nebula in mid-infrared wavelengths, Webb has unveiled the second, dusty star at the center of the nebula in far more detail. The star closely orbits its companion as it periodically ejects layers of gas and dust. Together, the swirling duo have created a fantastic landscape of asymmetrical shells. Credit: NASA, ESA, CSA, and STScI. ",
+          "type": "video",
+          "title": "Southern Ring Nebula JWST vs Hubble"
+        }
+      ]
+    },
+    {
+      "id": "Mars",
+      "label": "Mars",
+      "items": [
+        {
+          "id": "187",
+          "mediaPath": "/media/Mars.mp4",
+          "thumbnailPath": "/thumbs/Mars_frame.png",
+          "description": "Facts about Mars",
+          "type": "video",
+          "title": "Mars"
+        },
+        {
+          "id": "188",
+          "mediaPath": "/media/MSLDescent.mp4",
+          "thumbnailPath": "/thumbs/MSLDescent_frame.png",
+          "description": "Animation of descent of Mars Science Labratory",
+          "type": "video",
+          "title": "MSL Descent"
+        },
+        {
+          "id": "189",
+          "mediaPath": "/media/Peeling_Back_Layers_of_a_Martian_Polar_Ice_Cap.mp4",
+          "thumbnailPath": "/thumbs/PeelingBackLayersofaMartianPolarIceCap_frame.png",
+          "description": "Simulation of\u00a0a cross-section of Mars polar ice caps",
+          "type": "video",
+          "title": "Martian Polar Ice Cap"
+        },
+        {
+          "id": "190",
+          "mediaPath": "/media/HRSCImagesoftheESAMarsExpressMission.mp4",
+          "thumbnailPath": "/thumbs/HRSCImagesoftheESAMarsExpressMission_frame.png",
+          "description": "High Resolution Stereo Camera images of Mars from ESA's Mars Express Mission",
+          "type": "video",
+          "title": "Mars Topology from Mars Express"
+        },
+        {
+          "id": "191",
+          "mediaPath": "/media/MRO.mp4",
+          "thumbnailPath": "/thumbs/MRO_frame.png",
+          "description": "Images from the Mars Reconnaissance Orbiter",
+          "type": "video",
+          "title": "Images of Mars from the Mars Reconnaissance Orbiter"
+        },
+        {
+          "id": "192",
+          "mediaPath": "/media/Curiosity1stScoop-1280.mp4",
+          "thumbnailPath": "/thumbs/Curiosity1stScoop1280_frame.png",
+          "description": "This video clip shows the first Martian material collected by the scoop on the robotic arm of NASA's Mars Curiosity rover, being vibrated inside the scoop after it was lifted from the ground on Oct. 7, 2012. The clip includes 256 frames from Curiosity's Mast Camera, taken at about 8 frames per second, plus interpolated frames to run at actual speed in this 32-frames-per-second version. The scoop was vibrated to discard any overfill. Churning due to vibration also serves to show physical characteristics of the collected material, such as an absence of pebbles. The scoop is 1.8\" (4.5 cm) wide, 2.8\" (7 cm) long.",
+          "type": "video",
+          "title": "Curiosity's 1st Scoop"
+        },
+        {
+          "id": "193",
+          "mediaPath": "/media/msl20120827_curiositycommunicates-1280.mp4",
+          "thumbnailPath": "/thumbs/msl20120827curiositycommunicates1280_frame.png",
+          "description": "interactions of Curiosity Rover and various Mars orbiters",
+          "type": "video",
+          "title": "Curiosity Communicating with Mars Orbiters"
+        },
+        {
+          "id": "194",
+          "mediaPath": "/media/NewtonCraterWaterFlows.mp4",
+          "thumbnailPath": "/thumbs/NewtonCraterWaterFlows_frame.png",
+          "description": "Simulated flyover of recurrent warm-season flows on a slope inside NewtonCrater",
+          "type": "video",
+          "title": "Newton Crater Water Flows"
+        },
+        {
+          "id": "195",
+          "mediaPath": "/media/opportunity_eclipse20101221-640.mp4",
+          "thumbnailPath": "/thumbs/opportunityeclipse20101221640_frame.png",
+          "description": "Phobos Transits the sun (Nov 9 2010)",
+          "type": "video",
+          "title": "Opportunity Views Martian Eclipse"
+        },
+        {
+          "id": "196",
+          "mediaPath": "/media/PhobosSeries.mp4",
+          "thumbnailPath": "/thumbs/PhobosSeries_frame.png",
+          "description": "Simulation of Phobos rotating",
+          "type": "video",
+          "title": "Phobos Rotating"
+        },
+        {
+          "id": "197",
+          "mediaPath": "/media/PolarCapImages.mp4",
+          "thumbnailPath": "/thumbs/PolarCapImages_frame.png",
+          "description": "Christmas-themed flyover of Mars polar cap",
+          "type": "video",
+          "title": "Martian Polar Icecap Images"
+        },
+        {
+          "id": "198",
+          "mediaPath": "/media/RoverAnimPart2.mp4",
+          "thumbnailPath": "/thumbs/RoverAnimPart2_frame.png",
+          "description": "Animation of the landing process for the Spirit and Opportunity rovers",
+          "type": "video",
+          "title": "Spirit & Opporutnity Landing Animation"
+        },
+        {
+          "id": "199",
+          "mediaPath": "/media/Mars3DU_h264_TB_rev_converted2D.mp4",
+          "thumbnailPath": "/thumbs/Mars3DUh264TBrev_frame.png",
+          "description": "Simulated 3D flyover of Mars's Valles Marineris valley.",
+          "type": "video",
+          "title": "Simulated Flyover of Valles Marineris"
+        }
+      ]
+    },
+    {
+      "id": "Mercury",
+      "label": "Mercury",
+      "items": [
+        {
+          "id": "200",
+          "mediaPath": "/media/MESSENGERatMercury-HD.mp4",
+          "thumbnailPath": "/thumbs/MESSENGERatMercuryHD_frame.png",
+          "description": "Images of Mercury from Messenger",
+          "type": "video",
+          "title": "MESSENGER at Mercury"
+        }
+      ]
+    },
+    {
+      "id": "Meteors",
+      "label": "Meteors",
+      "items": [
+        {
+          "id": "201",
+          "mediaPath": "/media/AdlerPlanetariumTeensHuntforMeteoritesinLakeMichigan.mp4",
+          "thumbnailPath": "/thumbs/AdlerPlanetariumTeensHuntforMeteoritesinLakeMichigan_frame.png",
+          "description": "Adler teens searching for the meteorite in Lake Michigan.",
+          "type": "video",
+          "title": "Adler Planetarium Teens Hunt for Meteorites in Lake Michigan"
+        },
+        {
+          "id": "202",
+          "mediaPath": "/media/Meteorite_Falls_In_Russian_Urals_Chelyabinsk_region_UFO_2152013.mp4",
+          "thumbnailPath": "/thumbs/MeteoriteFallsInRussianUralsChelyabinskregionUFO2152013_frame.png",
+          "description": "Dashcam video of Chelyabinsk Meteor",
+          "type": "video",
+          "title": "Meteorite Falls in Russian Urals Chelyabinsk Region"
+        },
+        {
+          "id": "203",
+          "mediaPath": "/media/Dawn_Vesta_HAMO.mp4",
+          "thumbnailPath": "/thumbs/DawnVestaHAMO_frame.png",
+          "description": "This movie uses data from NASA's Dawn spacecraft to simulate the view from the spacecraft flying over the surface of the giant asteroid Vesta.",
+          "type": "video",
+          "title": "Simulated View of Vesta From Dawn"
+        },
+        {
+          "id": "204",
+          "mediaPath": "/media/meteor_chelyabinsk.mp4",
+          "thumbnailPath": "/thumbs/meteorchelyabinsk_frame.png",
+          "description": "Dashcam video of Chelyabinsk Meteor",
+          "type": "video",
+          "title": "Dashcam Footage of Chelyabinsk Meteor"
+        },
+        {
+          "id": "205",
+          "mediaPath": "/media/METEORLIGHTSUPTHESKYOVERMICHIGAN1-16-2018.mp4",
+          "thumbnailPath": "/thumbs/METEORLIGHTSUPTHESKYOVERMICHIGAN1162018_frame.png",
+          "description": "Cameras catch meteor in sky over Michigan",
+          "type": "video",
+          "title": "Meteor over Michigan"
+        },
+        {
+          "id": "206",
+          "mediaPath": "/media/MeteoriteoverMichiganCaughtonDashCamViralHog.mp4",
+          "thumbnailPath": "/thumbs/MeteoriteoverMichiganCaughtonDashCamViralHog_frame.png",
+          "description": "Cameras catch meteor in sky over Michigan",
+          "type": "video",
+          "title": "Dashcam Footage of Meteor over Michigan"
+        },
+        {
+          "id": "207",
+          "mediaPath": "/media/PittsburghFireballFebruary17th,2015.mp4",
+          "thumbnailPath": "/thumbs/PittsburghFireballFebruary17th2015_frame.png",
+          "description": "A 500-pound meteor, around two-feet in diameter, zipped through the Earth's atmosphere above Pittsburgh on Tuesday morning, 17 February 2015. It passed by at about 45,000 mph. While it fell from visibility at an altitude of 13 miles, scientists predict that fragments likely fell to the ground east of Kittanning, PA. This video was captured by one of the black-and-white cameras that make up NASA's All-Sky Fireball Network. Set up by the Meteoroid Environment Office, it's a series of cameras pointing up at the night sky across the country, found in schools and other public spaces, that are put in place to record occurrences just like this.",
+          "type": "video",
+          "title": "Pittsburgh Meteor 2015"
+        }
+      ]
+    },
+    {
+      "id": "Moon",
+      "label": "Moon",
+      "items": [
+        {
+          "id": "208",
+          "mediaPath": "/media/phases_2013_fancy_1080p30.mp4",
+          "thumbnailPath": "/thumbs/phases2013fancy1080p30_frame.png",
+          "description": "Explanation of the phases of the moon",
+          "type": "video",
+          "title": "Moon Phases"
+        },
+        {
+          "id": "209",
+          "mediaPath": "/media/Moon.mp4",
+          "thumbnailPath": "/thumbs/Moon_frame.png",
+          "description": "Views from Lunar Reconnaissance Orbiter",
+          "type": "video",
+          "title": "Views from Lunar Reconnaissance Orbiter"
+        },
+        {
+          "id": "210",
+          "mediaPath": "/media/moon_1080p60.mp4",
+          "thumbnailPath": "/thumbs/moon1080p60_frame.png",
+          "description": "Views of the moons phases",
+          "type": "video",
+          "title": "Moon Phases and Gyration"
+        },
+        {
+          "id": "211",
+          "mediaPath": "/media/synestia_HD.mp4",
+          "thumbnailPath": "/thumbs/synestiaHD_frame.png",
+          "description": "Simulation of the Synestia theory for Moon formation; a rapidly spinning earth is hit by a giant impactor, creating a debris disk that forms the Earth-Moon system (seen in Imagine the Moon)",
+          "type": "video",
+          "title": "Visualization of Synestia Theory of Lunar Formation"
+        },
+        {
+          "id": "212",
+          "mediaPath": "/media/ulcn_vs_lola_720p.mp4",
+          "thumbnailPath": "/thumbs/ulcnvslola720p_frame.png",
+          "description": "This animation illustrates the dramatic improvement in our knowledge of the Moon's terrain made possible by the Lunar Orbiter Laser Altimeter (LOLA) instrument onboard the Lunar Reconnaissance Orbiter (LRO) spacecraft. A LOLA digital elevation map compiled in late 2009 is compared to the Unified Lunar Control Network (ULCN) 2005, a painstakingly constructed map based on the best available data at the time, including imagery from the Clementine, Apollo, Mariner 10, and Galileo missions as well as Earth-based observations. The height of the terrain is color-coded, with blues and greens representing low altitudes and reds representing high altitudes. The LOLA data used to create this media is available to the public in the LOLA archive of the PDS Geosciences node.",
+          "type": "video",
+          "title": "Lunar Terrain 2005 vs 2010"
+        },
+        {
+          "id": "396",
+          "mediaPath": "/media/Lunar_Formation_Giant_Impact.mp4",
+          "thumbnailPath": "/thumbs/Lunar_Formation_Giant_Impact_frame.png",
+          "description": "This simulation suggests that the Moon may have formed in a matter of hours, when material from the Earth and a Mars sized-body were launched directly into orbit after the impact. The simulations used in this research are some of the most detailed of their kind, operating at the highest resolution of any simulation run to study the Moon's origins or other giant impacts. Credit: NASA/Durham University/Jacob Kegerreis. ",
+          "type": "video",
+          "title": "Lunar Formation from Giant Impact"
+        }
+      ]
+    },
+    {
+      "id": "Nebulae",
+      "label": "Nebulae",
+      "items": [
+        {
+          "id": "213",
+          "mediaPath": "/media/NebulaTour1WithProtoplanetarySystem-1.mp4",
+          "thumbnailPath": "/thumbs/NebulaTour1WithProtoplanetarySystem1_frame.png",
+          "description": "This visualization shows the formation of a protoplanetary disk around a newborn star nested within a giant molecular cloud.",
+          "type": "video",
+          "title": "Nebula Tour with Protoplanetary System"
+        },
+        {
+          "id": "214",
+          "mediaPath": "/media/HubbleTimelapseofV838Monocerotis(2002-2006).mp4",
+          "thumbnailPath": "/thumbs/HubbleTimelapseofV838Monocerotis20022006_frame.png",
+          "description": "Hubble time laps of outbursts from star V838 Monocerotis  from 2002 to 2006",
+          "type": "video",
+          "title": "Hubble Timelapse of V838 Monocerotis"
+        },
+        {
+          "id": "215",
+          "mediaPath": "/media/ButterflyNebulaDynamics.mp4",
+          "thumbnailPath": "/thumbs/ButterflyNebulaDynamics_frame.png",
+          "description": "Visualization of the binary system powering the Butterfly Nebula",
+          "type": "video",
+          "title": "Butterfly Nebula Dynamics"
+        },
+        {
+          "id": "216",
+          "mediaPath": "/media/hs-2013-13-b-1280x720_quicktime.mp4",
+          "thumbnailPath": "/thumbs/hs201313b1280x720quicktime_frame.png",
+          "description": "3D model of the Ring Nebula.",
+          "type": "video",
+          "title": "Ring Nebula Animation"
+        },
+        {
+          "id": "217",
+          "mediaPath": "/media/NebulaTour2-1.mp4",
+          "thumbnailPath": "/thumbs/NebulaTour21_frame.png",
+          "description": "Simulation of star-forming nebula",
+          "type": "video",
+          "title": "Star-forming Nebula Simulation (1)"
+        },
+        {
+          "id": "218",
+          "mediaPath": "/media/NebulaTour3-1.mp4",
+          "thumbnailPath": "/thumbs/NebulaTour31_frame.png",
+          "description": "Simulation of star-forming nebula",
+          "type": "video",
+          "title": "Star-forming Nebula Simulation (2)"
+        },
+        {
+          "id": "219",
+          "mediaPath": "/media/RLW_CloudSimulation.mp4",
+          "thumbnailPath": "/thumbs/RLWCloudSimulation_frame.png",
+          "description": "Individual stars being formed in a nebula from initial conditions",
+          "type": "video",
+          "title": "Individual Stars Forming in Nebula"
+        },
+        {
+          "id": "220",
+          "mediaPath": "/media/ZoominginontheHorseheadNebula.mp4",
+          "thumbnailPath": "/thumbs/ZoominginontheHorseheadNebula_frame.png",
+          "description": "This video zooms into part of the sky in the constellation of Orion (The Hunter), showing the new infrared Hubble observations of the Horsehead Nebula (otherwise known as Barnard 33). The video ends on a 3D fly-through of the nebula. The video continues with a scientific visualisation of a flight into the infrared Horsehead. The computer graphics model is intended to be scientifically reasonable, but not fully accurate. This new infrared image has been released to celebrate 23 years of the NASA/ESA Hubble Space Telescope. The data in this video come from Hubble's Wide Field Camera 3, supplemented by ground-based observations from the European Southern Observatory's Visible and Infrared Survey Telescope for Astronomy (VISTA).",
+          "type": "video",
+          "title": "Horsehead Nebula Zoom-in and 3D Rendering"
+        },
+        {
+          "id": "221",
+          "mediaPath": "/media/dark_pillars_3dtb-1920x1080p30_converted2D.mp4",
+          "thumbnailPath": "/thumbs/darkpillars3dtb1920x1080p30_frame.png",
+          "description": "Three-dimensional rendering of dust pillars in the Carina Nebula.",
+          "type": "video",
+          "title": "Carina Nebula"
+        },
+        {
+          "id": "222",
+          "mediaPath": "/media/mystic_mountain_3dtb-1920x1080p30_converted2D.mp4",
+          "thumbnailPath": "/thumbs/mysticmountain3dtb1920x1080p30_frame.png",
+          "description": "Three-dimensional rendering of the Mystic Mountain within the Carina Nebula.",
+          "type": "video",
+          "title": "Mystic Mountain Nebula"
+        },
+        {
+          "id": "223",
+          "mediaPath": "/media/ngc2174_zoom_reveal_tb-tc-H264_1920x1080_converted2D.mp4",
+          "thumbnailPath": "/thumbs/ngc2174zoomrevealtbtcH2641920x1080_frame.png",
+          "description": "Note that the zoom is 2D, and only the second part of the sequence has stereo 3D. The Monkey Head Nebula (also known as NGC 2174) is a star-forming region in which bright, newborn stars near the center of the nebula illuminate the surrounding gas with energetic radiation. This radiation, along with strong stellar winds, erodes away the lower density gas. Pockets of higher density gas resist this erosion, and form pillars and peaks along the inner edge of the roughly circular cloud. This video showcases visible and infrared light views of a collection of pillars along one edge of the nebula. The sequence begins with a view of the night sky near the constellation of Gemini and Orion. The view zooms through observations from the Digitized Sky Survey 2 to reveal a Hubble Space Telescope visible light view of the top of this region of pillars. A cross-fade transitions not only between Hubble's visible and infrared light views, but also from a two-dimensional image to a three-dimensional sculpted model of the region. The camera then pulls back to reveal the landscape of evaporating peaks of gas and dust surrounded by stars. Note that the visualization is intended to be a reasonable interpretation (not scientifically accurate) and that distances within the model are significantly compressed.",
+          "type": "video",
+          "title": "Monkey Head Nebula"
+        },
+        {
+          "id": "224",
+          "mediaPath": "/media/s106_3dtb-1920x1080p30_converted2D.mp4",
+          "thumbnailPath": "/thumbs/s1063dtb1920x1080p30_frame.png",
+          "description": "Three-dimensional rendering of star-forming region S106",
+          "type": "video",
+          "title": "S106 Star Forming Region"
+        },
+        {
+          "id": "225",
+          "mediaPath": "/media/red_bubble_3dtb-1920x1080p30_converted2D.mp4",
+          "thumbnailPath": "/thumbs/redbubble3dtb1920x1080p30_frame.png",
+          "description": "Three-dimensional rendering of \"Red bubble\" Type Ia SNe remnant.",
+          "type": "video",
+          "title": "Red Bubble Supernova Remnant"
+        }
+      ]
+    },
+    {
+      "id": "Neptune",
+      "label": "Neptune",
+      "items": [
+        {
+          "id": "226",
+          "mediaPath": "/media/2011HM102-AnL5NeptuneTrojan-HD.mp4",
+          "thumbnailPath": "/thumbs/2011HM102AnL5NeptuneTrojanHD_frame.png",
+          "description": "Animation of L5 Neptune Trojan, HM102 (represented by the white point), which was discovered by the New Horizons probe. The cyan point is Neptune, while the blue, yellow, and pink points are the other gas giants (Uranus, Saturn, and Jupiter, respectively).",
+          "type": "video",
+          "title": "Neptune Trojan HM102"
+        },
+        {
+          "id": "227",
+          "mediaPath": "/media/MotionoftheNeptuneTrojans-HD.mp4",
+          "thumbnailPath": "/thumbs/MotionoftheNeptuneTrojansHD_frame.png",
+          "description": "Orbital motion of Neptune's Trojan Asteroids",
+          "type": "video",
+          "title": "Neptune Trojans"
+        },
+        {
+          "id": "228",
+          "mediaPath": "/media/NeptuneHST.mp4",
+          "thumbnailPath": "/thumbs/NeptuneHST_frame.png",
+          "description": "Images of Neptune and moons",
+          "type": "video",
+          "title": "Images of Neptune"
+        }
+      ]
+    },
+    {
+      "id": "Observatories",
+      "label": "Observatories",
+      "items": [
+        {
+          "id": "229",
+          "mediaPath": "/media/PierreAugerObservatory.mp4",
+          "thumbnailPath": "/thumbs/PierreAugerObservatory_frame.png",
+          "description": "Pierre Auger Observatory, Mendoza, Argentina is an international cosmic ray observatory",
+          "type": "video",
+          "title": "Pierre Auger Observatory"
+        },
+        {
+          "id": "230",
+          "mediaPath": "/media/CARMATB_H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/CARMATBH264_frame.png",
+          "description": "The Combined Array for Research in Millimeter-wave Astronomy (CARMA) is an astronomical instrument comprising 23 radio telescopes. These telescopes form an astronomical interferometer where all the signals are combined in a purpose-built computer (a correlator) to produce high-resolution astronomical images. The observatory is located in the Inyo Mountains at a site called Cedar Flat near Big Pine, California.",
+          "type": "video",
+          "title": "CARMA"
+        },
+        {
+          "id": "231",
+          "mediaPath": "/media/CTIO3DPanoTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/CTIO3DPanoTB_frame.png",
+          "description": "Panoramic view of the Cerro Tololo Inter-American Observatory (CTIO) in Chile. CTIO operates the V\u00edctor M. Blanco 4-meter Telescope on Cerro Tololo, which features the Dark Energy Camera (DECam), a high-performance, wide-field CCD imager built to carry out the Dark Energy Survey (DES) (a US Department of Energy Office of Science-led project). It also operates the 4.1-meter Southern Astrophysical Research (SOAR) Telescope on the adjacent Cerro Pach\u00f3n.",
+          "type": "video",
+          "title": "CTIO Panorama"
+        },
+        {
+          "id": "232",
+          "mediaPath": "/media/DECAM_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/DECAMTB_frame.png",
+          "description": "The DECam (Dark Energy Camera) under construction at Fermilab in Batavia, Illinois. The camera now operates with the Victor M. Blanco Telescope located at Cerro Tololo Inter-American Observatory (CTIO) in Chile. The camera is part of the Dark Energy Survey (DES), an optical/near-infrared survey that aims to probe the dynamics of the expansion of the universe and the growth of large scale structure. The collaboration is composed of research institutions and universities from the United States, Brazil, the United Kingdom (UK), Germany, Spain, and Switzerland.",
+          "type": "video",
+          "title": "DECAM Camera"
+        },
+        {
+          "id": "233",
+          "mediaPath": "/media/InsideBlancoTelescopeTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/InsideBlancoTelescopeTB_frame.png",
+          "description": "An evening inside the Victor M. Blanco Telescope, Cerro Tololo Inter-American Observatory (CTIO), IV Coquimbo Region, Chile",
+          "type": "video",
+          "title": "Blanco Telescope"
+        },
+        {
+          "id": "234",
+          "mediaPath": "/media/InsideGeminiSouthTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/InsideGeminiSouthTB_frame.png",
+          "description": "An evening inside the 8.1-m Gemini South Telescope in Chile",
+          "type": "video",
+          "title": "Gemini South Telescope"
+        },
+        {
+          "id": "235",
+          "mediaPath": "/media/KittPeakNatlObs(fromGreatObs3D)_converted2D.mp4",
+          "thumbnailPath": "/thumbs/KittPeakNatlObsfromGreatObs3D_frame.png",
+          "description": "Kitt Peak National Observatory (KPNO) in Tucsun Arizona and is a Program of the NOIRLab. KPNO hosts the facilities of consortia that, between them, operate more than a dozen optical telescopes and two radio telescopes. KPNO operates the Nicholas U. Mayall 4-meter Telescope on behalf of the Dark Energy Spectroscopic Instrument (DESI) survey (a project led by the US Department of Energy Office of Science) and the WIYN 3.5-meter Telescope",
+          "type": "video",
+          "title": "Kitt Peak National Observatory"
+        },
+        {
+          "id": "236",
+          "mediaPath": "/media/KPNO_4m_Mayall_converted2D.mp4",
+          "thumbnailPath": "/thumbs/KPNO4mMayall_frame.png",
+          "description": "Kitt Peak National Observatory operates the Nicholas U. Mayall 4-meter Telescope on behalf of the Dark Energy Spectroscopic Instrument (DESI) survey.",
+          "type": "video",
+          "title": "Mayall Telescope"
+        },
+        {
+          "id": "237",
+          "mediaPath": "/media/MaunaKeaObs(fromGreatObs3D)_converted2D.mp4",
+          "thumbnailPath": "/thumbs/MaunaKeaObsfromGreatObs3D_frame.png",
+          "description": "Tour of Mauna Kea Observatory, focusing on the twin Keck telescopes and the Gemini North telescope.",
+          "type": "video",
+          "title": "Mauna Kea Observatory"
+        },
+        {
+          "id": "238",
+          "mediaPath": "/media/MilkyWayandMcMath-PierceSolarTelescope_converted2D.mp4",
+          "thumbnailPath": "/thumbs/MilkyWayandMcMathPierceSolarTelescope_frame.png",
+          "description": "The McMath-Pierce Solar Telescope is the largest solar instrument in the world. It is also the world's largest unobstructed aperture optical telescope, with a diameter of 1.6 meters. Dedicated as the McMath Solar Telescope on November 2, 1962, the facility was later renamed to honor Dr. Keith Pierce as well as Dr. Robert McMath. The McMath-Pierce Facility is part of the National Solar Observatory, one division of the National Optical Astronomy Observatories (NOAO).",
+          "type": "video",
+          "title": "Milky Way over McMath-Pierce Solar Telescope"
+        },
+        {
+          "id": "239",
+          "mediaPath": "/media/SALTTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/SALTTB_frame.png",
+          "description": "The South African Large Telescope (SALT) is a 9.2-metre optical telescope designed mainly for spectroscopy. It consists of 91 hexagonal mirror segments each with a 1-metre inscribed diameter, resulting in a total hexagonal mirror of 11.1 by 9.8 m. However, its effective aperture is only 9.2 m. It is located close to the town of Sutherland in the semi-desert region of the Karoo, South Africa. SALT is the largest optical telescope in the southern hemisphere.",
+          "type": "video",
+          "title": "SALT"
+        },
+        {
+          "id": "240",
+          "mediaPath": "/media/VERITASTB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/VERITASTB_frame.png",
+          "description": "VERITAS (Very Energetic Radiation Imaging Telescope Array System) is a major ground-based gamma-ray observatory with an array of four 12 meter optical reflectors for gamma-ray astronomy in the GeV \u2013 TeV photon energy range. VERITAS uses the Imaging Atmospheric Cherenkov Telescope technique to observe gamma rays that cause particle showers in Earth's atmosphere that are known as extensive air showers. The VERITAS array is located at the Fred Lawrence Whipple Observatory, in southern Arizona, United States.",
+          "type": "video",
+          "title": "VERITAS"
+        },
+        {
+          "id": "241",
+          "mediaPath": "/media/Yerkes_converted2D.mp4",
+          "thumbnailPath": "/thumbs/Yerkes_frame.png",
+          "description": "The historic Yerkes Observatory, often called \"the birthplace of modern astrophysics,\" was founded in 1892 by astronomer George Ellery Hale and financed by businessman Charles T. Yerkes. The observatory's main dome houses a 40 in-diameter (102 cm) doublet lens refracting telescope, the second-largest refractor ever successfully used for astronomy.",
+          "type": "video",
+          "title": "Yerkes Observatory"
+        }
+      ]
+    },
+    {
+      "id": "Particle Physics",
+      "label": "Particle Physics",
+      "items": [
+        {
+          "id": "242",
+          "mediaPath": "/media/CosmicRaysTop-422-1.mp4",
+          "thumbnailPath": "/thumbs/CosmicRaysTop4221_frame.png",
+          "description": "Cosmic rays & one gamma ray, top view headed down over Chicago around Buckingham Fountain",
+          "type": "video",
+          "title": "Cosmic Rays Animation from Above"
+        },
+        {
+          "id": "243",
+          "mediaPath": "/media/CosmicRays.mp4",
+          "thumbnailPath": "/thumbs/CosmicRays_frame.png",
+          "description": "Animation of Cosmic Rays over Chicago (top view)",
+          "type": "video",
+          "title": "Cosmic Ray Showers over Chicago"
+        },
+        {
+          "id": "244",
+          "mediaPath": "/media/CosmicsSide-1.mp4",
+          "thumbnailPath": "/thumbs/CosmicsSide1_frame.png",
+          "description": "Animation of Cosmic Rays over Chicago (ground view)",
+          "type": "video",
+          "title": "Cosmic Rays Animation from Ground"
+        },
+        {
+          "id": "245",
+          "mediaPath": "/media/ProtonMovie.mp4",
+          "thumbnailPath": "/thumbs/ProtonMovie_frame.png",
+          "description": "Animation of Large Hadron Collider particle accelator",
+          "type": "video",
+          "title": "Proton Collisions on Large Hadron Collider"
+        }
+      ]
+    },
+    {
+      "id": "Planet Formation",
+      "label": "Planet Formation",
+      "items": [
+        {
+          "id": "246",
+          "mediaPath": "/media/Nebula_to_cu_of_Protoplanetary_disc.mp4",
+          "thumbnailPath": "/thumbs/NebulatocuofProtoplanetarydisc_frame.png",
+          "description": "Simulation showing planets forming around a star embedded in a gas cloud.",
+          "type": "video",
+          "title": "Planet Formation Animation"
+        },
+        {
+          "id": "247",
+          "mediaPath": "/media/GrandTack3D_converted2D.mp4",
+          "thumbnailPath": "/thumbs/GrandTack3D_frame.png",
+          "description": "Grand Tack model for early solar system dynamics. The grand tack hypothesis proposes that Jupiter formed at a distance of 3.5 AU from the Sun, then migrated inward to 1.5 AU, before reversing course due to capturing Saturn in an orbital resonance, eventually halting near its current orbit at 5.2 AU. The reversal of Jupiter's planetary migration is likened to the path of a sailboat changing directions (tacking) as it travels against the wind.  The planetesimal disk is truncated at 1.0 AU by Jupiter's migration, limiting the material available to form Mars. Jupiter twice crosses the asteroid belt, scattering asteroids outward then inward. The resulting asteroid belt has a small mass, a wide range of inclinations and eccentricities, and a population originating from both inside and outside Jupiter's original orbit. Debris produced by collisions among planetesimals swept ahead of Jupiter may have driven an early generation of planets into the Sun.",
+          "type": "video",
+          "title": "Grand Tack Model of Solar System"
+        }
+      ]
+    },
+    {
+      "id": "Pluto",
+      "label": "Pluto",
+      "items": [
+        {
+          "id": "248",
+          "mediaPath": "/media/VeryBestViewofPluto-15-02652_PressReleaseNEW_50sec_3.mp4",
+          "thumbnailPath": "/thumbs/VeryBestViewofPluto1502652PressReleaseNEW50sec3_frame.png",
+          "description": "Images from New Horizons of Pluto",
+          "type": "video",
+          "title": "New Horizons Pluto Best Of"
+        },
+        {
+          "id": "249",
+          "mediaPath": "/media/05-26-16_PressRelease_StripPan_FINAL_1080p.mp4",
+          "thumbnailPath": "/thumbs/052616PressReleaseStripPanFINAL1080p_frame.png",
+          "description": "Close up images from New Horizon",
+          "type": "video",
+          "title": "Pluto's Surface from New Horizons"
+        },
+        {
+          "id": "250",
+          "mediaPath": "/media/AnimatedFlyoverofPlutosIcyMountainandPlains.mp4",
+          "thumbnailPath": "/thumbs/AnimatedFlyoverofPlutosIcyMountainandPlains_frame.png",
+          "description": "This simulated flyover of Pluto\u2019s Norgay Montes (Norgay Mountains) and Sputnik Planum (Sputnik Plain) was created from New Horizons closest-approach images. Norgay Montes have been informally named for Tenzing Norgay, one of the first two humans to reach the summit of Mount Everest. Sputnik Planum is informally named for Earth\u2019s first artificial satellite. The images were acquired by the Long Range Reconnaissance Imager (LORRI) on July 14 from a distance of 48,000 miles (77,000 kilometers). Features as small as a half-mile (1 kilometer) across are visible. Credit: NASA/JHUAPL/SWRI",
+          "type": "video",
+          "title": "Simulated Flyover of Pluto's Norgay Montes and Plains"
+        },
+        {
+          "id": "251",
+          "mediaPath": "/media/FlyingoverPlutosicyplainsandHillaryMountains.mp4",
+          "thumbnailPath": "/thumbs/FlyingoverPlutosicyplainsandHillaryMountains_frame.png",
+          "description": "This simulated flyover of two regions on Pluto, northwestern Sputnik Planum (Sputnik Plain) and Hillary Montes (Hillary Mountains), was created from New Horizons close-approach images. Sputnik Planum has been informally named for Earth\u2019s first artificial satellite, launched in 1957. Hillary Montes have been informally named for Sir Edmund Hillary, one of the first two humans to reach the summit of Mount Everest in 1953. The images were acquired by the Long Range Reconnaissance Imager (LORRI) on July 14 from a distance of 48,000 miles (77,000 kilometers). Features as small as one-half mile (1 kilometer) across are visible. Credit: NASA/JHUAPL/SwRI",
+          "type": "video",
+          "title": "Simulated Flyover Pluto's Icy Plains and Hillary Mountains"
+        },
+        {
+          "id": "252",
+          "mediaPath": "/media/Flyover-Charon-version-5b3.mp4",
+          "thumbnailPath": "/thumbs/FlyoverCharonversion5b3_frame.png",
+          "description": "Simulated Flyover of Charon",
+          "type": "video",
+          "title": "Simulated Flyover of Charon"
+        },
+        {
+          "id": "253",
+          "mediaPath": "/media/FLYOVER_SPUTNIK_PLANUM_ETC_20150916.mp4",
+          "thumbnailPath": "/thumbs/FLYOVERSPUTNIKPLANUMETC20150916_frame.png",
+          "description": "Simulated Flyover of Pluto's Sputnik Planum",
+          "type": "video",
+          "title": "Simulated Flyover of Pluto's Sputnik Planum"
+        },
+        {
+          "id": "254",
+          "mediaPath": "/media/PlutoandCharonSurfacesinLivingColor.mp4",
+          "thumbnailPath": "/thumbs/PlutoandCharonSurfacesinLivingColor_frame.png",
+          "description": "Images from New Horizon approaching pluto-Charon",
+          "type": "video",
+          "title": "Pluto and Charon Surfaces"
+        },
+        {
+          "id": "255",
+          "mediaPath": "/media/pluto-observations-through-the-years.mp4",
+          "thumbnailPath": "/thumbs/plutoobservationsthroughtheyears_frame.png",
+          "description": "Improvements of images of Pluto over time",
+          "type": "video",
+          "title": "Pluto Observations over the Years"
+        },
+        {
+          "id": "256",
+          "mediaPath": "/media/plutozoomanimationV2.mp4",
+          "thumbnailPath": "/thumbs/plutozoomanimationV2_frame.png",
+          "description": "Zooming in on surface features of Pluto from New Horizons",
+          "type": "video",
+          "title": "Zoom-in of Pluto's Surface"
+        },
+        {
+          "id": "257",
+          "mediaPath": "/media/TrajectoryEarthToPluto1280.mp4",
+          "thumbnailPath": "/thumbs/TrajectoryEarthToPluto1280_frame.png",
+          "description": "Path of New Horizon's flight to Pluto",
+          "type": "video",
+          "title": "New Horizon's Flight Path"
+        },
+        {
+          "id": "258",
+          "mediaPath": "/media/PlutoKuiper3D_converted2D.mp4",
+          "thumbnailPath": "/thumbs/PlutoKuiper3D_frame.png",
+          "description": "Pluto's orbit compared to 1,600 other known Trans Neptunian Objects.",
+          "type": "video",
+          "title": "Pluto and the Kuiper Belt"
+        }
+      ]
+    },
+    {
+      "id": "Rubin",
+      "label": "Rubin",
+      "items": [
+        {
+          "id": "377",
+          "mediaPath": "/media/Rubin_FirstLook_Treasure_Trove.mp4",
+          "thumbnailPath": "/thumbs/Rubin_FirstLook_Treasure_Trove_frame.png",
+          "description": "Made from over 1100 images captured by NSF-DOE Vera C. Rubin Observatory, the video begins with a close-up of two galaxies then zooms out to reveal about 10 million galaxies. Those 10 million galaxies are roughly .05% of the approximately 20 billion galaxies Rubin Observatory will capture during its 10-year Legacy Survey of Space and Time. Credit: NSF-DOE Vera C. Rubin Observatory.",
+          "type": "video",
+          "title": "Cosmic Treasure Trove from First Look"
+        },
+        {
+          "id": "378",
+          "mediaPath": "/media/Rubin_FirstLook_Trifid_Lagoon.mp4",
+          "thumbnailPath": "/thumbs/Rubin_FirstLook_Trifid_Lagoon_frame.png",
+          "description": "Made from more than 678 exposures taken by NSF-DOE Vera C. Rubin Observatory in just over seven hours of observing time, this video explores details in the region containing the Trifid nebula (top) and the Lagoon nebula, which are several thousand light-years away from Earth. Credit: NSF-DOE Vera C. Rubin Observatory. ",
+          "type": "video",
+          "title": "Trifid and Lagoon Nebulae from First Look"
+        },
+        {
+          "id": "379",
+          "mediaPath": "/media/Rubin_FirstLook_Asteroids.mp4",
+          "thumbnailPath": "/thumbs/Rubin_FirstLook_Asteroids_frame.png",
+          "description": "2104 never-before-seen asteroids in our Solar System from 10 hours of observations, including seven near-Earth asteroids (which pose no danger). Annually, about 20,000 asteroids are discovered in total by all other ground and space-based observatories. Rubin Observatory alone will discover millions of new asteroids within the first two years of the Legacy Survey of Space and Time. Credit: NSF-DOE Vera C. Rubin Observatory. ",
+          "type": "video",
+          "title": "Asteroids from First Look"
+        },
+        {
+          "id": "380",
+          "mediaPath": "/media/Rubin_FirstLook_Variable_Stars.mp4",
+          "thumbnailPath": "/thumbs/Rubin_FirstLook_Variable_Stars_frame.png",
+          "description": "46 subtly pulsating RR Lyrae variable stars show an early glimpse of the dynamic sky Rubin will reveal. Over the next 10 years, Rubin will detect up to about 100,000 of these stars extending out to more than a million light-years away, allowing scientists to map the outer reaches of our Galaxy and explore the structure of the Galactic halo that surrounds the Milky Way. Credit: NSF-DOE Vera C. Rubin Observatory.",
+          "type": "video",
+          "title": "Variable Stars from First Look"
+        }
+      ]
+    },
+    {
+      "id": "Saturn",
+      "label": "Saturn",
+      "items": [
+        {
+          "id": "259",
+          "mediaPath": "/media/Cassini_FirstFantasticDive_20170503_720cc.mp4",
+          "thumbnailPath": "/thumbs/CassiniFirstFantasticDive20170503720cc_frame.png",
+          "description": "Images from Cassini of Saturn",
+          "type": "video",
+          "title": "Cassini Saturn Images"
+        },
+        {
+          "id": "260",
+          "mediaPath": "/media/cassini_final_plunge.mp4",
+          "thumbnailPath": "/thumbs/cassinifinalplunge_frame.png",
+          "description": "Animation of Cassini's final plunge into Saturn",
+          "type": "video",
+          "title": "Cassini's Final Plunge"
+        },
+        {
+          "id": "261",
+          "mediaPath": "/media/2017-03-08SaturnmoonPantimelapsefromrawCassiniimages.mp4",
+          "thumbnailPath": "/thumbs/20170308SaturnmoonPantimelapsefromrawCassiniimages_frame.png",
+          "description": "Images of Pan from Cassini",
+          "type": "video",
+          "title": "Timelapse of Saturn's Moon Pan from Cassini"
+        },
+        {
+          "id": "262",
+          "mediaPath": "/media/AllFRPO.mp4.mp4",
+          "thumbnailPath": "/thumbs/AllFRPO_frame.png",
+          "description": "Flight paths of Cassini's orbits of Saturn",
+          "type": "video",
+          "title": "Orbit of Cassini around Saturn"
+        },
+        {
+          "id": "263",
+          "mediaPath": "/media/CASSINI-last-looks.mp4",
+          "thumbnailPath": "/thumbs/CASSINIlastlooks_frame.png",
+          "description": "Final images of Saturn & rings from Cassini",
+          "type": "video",
+          "title": "CASSINI Last Look at Saturn"
+        },
+        {
+          "id": "264",
+          "mediaPath": "/media/Dring2North_Rev0.mp4.mp4",
+          "thumbnailPath": "/thumbs/Dring2NorthRev0_frame.png",
+          "description": "How Cassini orbited Saturn",
+          "type": "video",
+          "title": "Cassini's Orbit through Saturn's Rings"
+        },
+        {
+          "id": "265",
+          "mediaPath": "/media/Cassini.mp4",
+          "thumbnailPath": "/thumbs/Cassini_frame.png",
+          "description": "Images taken of Saturn by Cassini and of Titan by Huygens",
+          "type": "video",
+          "title": "Images from Cassini and Huygens"
+        },
+        {
+          "id": "266",
+          "mediaPath": "/media/EnceladusEncounter.mp4",
+          "thumbnailPath": "/thumbs/EnceladusEncounter_frame.png",
+          "description": "Close up of icying surface of Enceladus",
+          "type": "video",
+          "title": "Enceladus"
+        },
+        {
+          "id": "267",
+          "mediaPath": "/media/MysteriousHurricaneatSaturnsNorthPole.mp4",
+          "thumbnailPath": "/thumbs/MysteriousHurricaneatSaturnsNorthPole_frame.png",
+          "description": "Hexagonal shaped storm on Saturn's north pole",
+          "type": "video",
+          "title": "Hurricane at Saturn's North Pole"
+        },
+        {
+          "id": "268",
+          "mediaPath": "/media/Saturn.mp4",
+          "thumbnailPath": "/thumbs/Saturn_frame.png",
+          "description": "Images and movies of Saturn",
+          "type": "video",
+          "title": "Images of Saturn and Rings"
+        },
+        {
+          "id": "269",
+          "mediaPath": "/media/SaturnAuroraNorth.mp4",
+          "thumbnailPath": "/thumbs/SaturnAuroraNorth_frame.png",
+          "description": "Views of Saturn's aurora",
+          "type": "video",
+          "title": "Saturn's Northern Aurora"
+        }
+      ]
+    },
+    {
+      "id": "Science Concepts",
+      "label": "Science Concepts",
+      "items": [
+        {
+          "id": "163",
+          "mediaPath": "/media/SZeffect.mp4",
+          "thumbnailPath": "/thumbs/SZeffect_frame.png",
+          "description": "An illustration of the Sunyaev-Zel'dovich (SZ) Effect.",
+          "type": "video",
+          "title": "Sunyaev-Zel'dovich Effect"
+        },
+        {
+          "id": "270",
+          "mediaPath": "/media/sundial_mono.mp4",
+          "thumbnailPath": "/thumbs/sundialmono_frame.png",
+          "description": "Aniation of how a sun dial works",
+          "type": "video",
+          "title": "Sundial Animation"
+        },
+        {
+          "id": "271",
+          "mediaPath": "/media/DopplerEffect.mp4",
+          "thumbnailPath": "/thumbs/DopplerEffect_frame.png",
+          "description": "Visualization of how doppler effect shorts/lenghts light waves",
+          "type": "video",
+          "title": "Doppler Effect"
+        },
+        {
+          "id": "272",
+          "mediaPath": "/media/expansion_h264.mp4",
+          "thumbnailPath": "/thumbs/expansionh264_frame.png",
+          "description": "How lightwaves \"stretch\" due to the expansion of space",
+          "type": "video",
+          "title": "Doppler Effect from Universe Expansion"
+        },
+        {
+          "id": "273",
+          "mediaPath": "/media/BH.mp4",
+          "thumbnailPath": "/thumbs/BH_frame.png",
+          "description": "How objects warps space time",
+          "type": "video",
+          "title": "Object Warping Spacetime (Simple)"
+        },
+        {
+          "id": "274",
+          "mediaPath": "/media/fastorbit.mp4",
+          "thumbnailPath": "/thumbs/fastorbit_frame.png",
+          "description": "Animation of production of gravitational waves from a compact object binary",
+          "type": "video",
+          "title": "Gravitational Wave Production (Simple)"
+        },
+        {
+          "id": "275",
+          "mediaPath": "/media/collapse.mp4",
+          "thumbnailPath": "/thumbs/collapse_frame.png",
+          "description": "Simulation of a star colapsing into a black hole",
+          "type": "video",
+          "title": "Collapsing Object Warping Spacetime"
+        },
+        {
+          "id": "276",
+          "mediaPath": "/media/hplus.mp4",
+          "thumbnailPath": "/thumbs/hplus_frame.png",
+          "description": "Effect of gravitational waves on space (h+ polarization)",
+          "type": "video",
+          "title": "Gravitational Wave Strain"
+        },
+        {
+          "id": "277",
+          "mediaPath": "/media/orbit.mp4",
+          "thumbnailPath": "/thumbs/orbit_frame.png",
+          "description": "Simulation of General Relativity concept of gravity",
+          "type": "video",
+          "title": "Orbit in General Relativity"
+        },
+        {
+          "id": "278",
+          "mediaPath": "/media/hst15_wormhole2.mp4",
+          "thumbnailPath": "/thumbs/hst15wormhole2_frame.png",
+          "description": "Artist's concept of a wormhole.",
+          "type": "video",
+          "title": "Wormhole"
+        },
+        {
+          "id": "279",
+          "mediaPath": "/media/RotatingTesseract.mp4",
+          "thumbnailPath": "/thumbs/RotatingTesseract_frame.png",
+          "description": "Visulaization of a tesseract (4-dimensional hypercube)",
+          "type": "video",
+          "title": "Rotating Tesseract"
+        },
+        {
+          "id": "280",
+          "mediaPath": "/media/Unwrappingatesseract(4dcubeakahypercube).mp4",
+          "thumbnailPath": "/thumbs/Unwrappingatesseract4dcubeakahypercube_frame.png",
+          "description": "Understanding a tesseract using 3D projections",
+          "type": "video",
+          "title": "Unwrapping a Tesseract"
+        },
+        {
+          "id": "281",
+          "mediaPath": "/media/KelvinHelmholtz.mp4",
+          "thumbnailPath": "/thumbs/KelvinHelmholtz_frame.png",
+          "description": "The Kelvin\u2013Helmholtz instability is a fluid instability that occurs when there is velocity shear in a single continuous fluid or a velocity difference across the interface between two fluids.",
+          "type": "video",
+          "title": "Kelvin-Helmholtz Instability"
+        },
+        {
+          "id": "282",
+          "mediaPath": "/media/allfourier.mp4",
+          "thumbnailPath": "/thumbs/allfourier_frame.png",
+          "description": "Fourier analysis example",
+          "type": "video",
+          "title": "Fourier Analysis"
+        },
+        {
+          "id": "283",
+          "mediaPath": "/media/electronDegeneracy_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/electronDegeneracyTB_frame.png",
+          "description": "Animation of electron degeneracy.",
+          "type": "video",
+          "title": "Electron Degeneracy"
+        },
+        {
+          "id": "284",
+          "mediaPath": "/media/Simple_bolometer_converted2D.mp4",
+          "thumbnailPath": "/thumbs/Simplebolometer_frame.png",
+          "description": "Simple description of how a bolometer works.",
+          "type": "video",
+          "title": "Bolometer"
+        }
+      ]
+    },
+    {
+      "id": "Space Exploration",
+      "label": "Space Exploration",
+      "items": [
+        {
+          "id": "285",
+          "mediaPath": "/media/ArchivalFootageofYuriGagarin-LaunchofVostok1.mp4",
+          "thumbnailPath": "/thumbs/ArchivalFootageofYuriGagarinLaunchofVostok1_frame.png",
+          "description": "Yuri Gagarin Footage",
+          "type": "video",
+          "title": "Yuri Gagarin Footage (1)"
+        },
+        {
+          "id": "286",
+          "mediaPath": "/media/YuriGagarin-Vostok1-April121961.mp4",
+          "thumbnailPath": "/thumbs/YuriGagarinVostok1April121961_frame.png",
+          "description": "On 12 April 1961, Yuri Gagarin became the first man to orbit and come back safely to the Earth.",
+          "type": "video",
+          "title": "Yuri Gagarin Footage (2)"
+        },
+        {
+          "id": "287",
+          "mediaPath": "/media/apollo11_flyover_1080p30.mp4",
+          "thumbnailPath": "/thumbs/apollo11flyover1080p30_frame.png",
+          "description": "Flyover of Apollo 11 landing site",
+          "type": "video",
+          "title": "Apollo 11 Landing Site"
+        },
+        {
+          "id": "288",
+          "mediaPath": "/media/G2014-064_Apollo11_LandingSite_MASTER_youtube_hq.mp4",
+          "thumbnailPath": "/thumbs/G2014064Apollo11LandingSiteMASTERyoutubehq_frame.png",
+          "description": "Apollo 11 landing site viewed from Lunar Reconnaissance Orbiter",
+          "type": "video",
+          "title": "Apollo 11 Landing Site with Labels"
+        },
+        {
+          "id": "289",
+          "mediaPath": "/media/LROCApollo12.mp4",
+          "thumbnailPath": "/thumbs/LROCApollo12_frame.png",
+          "description": "Lunar Reconnaissance Orbiter views Apollo 12 landing site",
+          "type": "video",
+          "title": "Apollo 12 Landing Site"
+        },
+        {
+          "id": "290",
+          "mediaPath": "/media/LROCApollo14.mp4",
+          "thumbnailPath": "/thumbs/LROCApollo14_frame.png",
+          "description": "Lunar Reconnaissance Orbiter views Apollo 14 landing site",
+          "type": "video",
+          "title": "Apollo 14 Landing Site"
+        },
+        {
+          "id": "291",
+          "mediaPath": "/media/LROCApollo17.mp4",
+          "thumbnailPath": "/thumbs/LROCApollo17_frame.png",
+          "description": "Lunar Reconnaissance Orbiter views Apollo 17 landing site",
+          "type": "video",
+          "title": "Apollo 17 Landing Site"
+        },
+        {
+          "id": "292",
+          "mediaPath": "/media/ATV-1_reentry.mp4",
+          "thumbnailPath": "/thumbs/ATV1reentry_frame.png",
+          "description": "Destructive reentry of Automated Transfer Vehicle 001 (ATV-001) after spending 5 months docked at the International Space Station in 2008",
+          "type": "video",
+          "title": "ATV-001 Reentry"
+        },
+        {
+          "id": "293",
+          "mediaPath": "/media/SpaceX_Falcon_Heavy_launch_6Feb2018.mp4",
+          "thumbnailPath": "/thumbs/SpaceXFalconHeavylaunch6Feb2018_frame.png",
+          "description": "SpaceX Falcon Heavy Launch Feb. 6, 2018",
+          "type": "video",
+          "title": "SpaceX Falcon Heavy launch Feb 6, 2018"
+        }
+      ]
+    },
+    {
+      "id": "Star Clusters",
+      "label": "Star Clusters",
+      "items": [
+        {
+          "id": "294",
+          "mediaPath": "/media/FlighttoStarClusterWesterlund2.mp4",
+          "thumbnailPath": "/thumbs/FlighttoStarClusterWesterlund2_frame.png",
+          "description": "Flight to star cluster Westerlund 2.",
+          "type": "video",
+          "title": "Flight to Star Cluster Westerlund 2"
+        },
+        {
+          "id": "295",
+          "mediaPath": "/media/AMGeller_AMUSE_solarsystem_in_cluster.mp4",
+          "thumbnailPath": "/thumbs/AMGellerAMUSEsolarsystemincluster_frame.png",
+          "description": "Credit: Aaron Gellar",
+          "type": "video",
+          "title": "N-Body Simulation"
+        },
+        {
+          "id": "296",
+          "mediaPath": "/media/AMGeller_FEWBODY_2_1_collision.mp4",
+          "thumbnailPath": "/thumbs/AMGellerFEWBODY21collision_frame.png",
+          "description": "Binary-single star encounter leading to a collision. Potential blue straggler formation channel. Credit: Aaron Geller.",
+          "type": "video",
+          "title": "FEWBODY Binary-Single Collision"
+        },
+        {
+          "id": "297",
+          "mediaPath": "/media/AMGeller_FEWBODY_2_1_exchange.mp4",
+          "thumbnailPath": "/thumbs/AMGellerFEWBODY21exchange_frame.png",
+          "description": "Binary-single star encounter leading to an exchange. Potential blue straggler formation channel. Credit: Aaron Geller.",
+          "type": "video",
+          "title": "FEWBODY Binary-Single Exchange"
+        },
+        {
+          "id": "298",
+          "mediaPath": "/media/AMGeller_FEWBODY_2_1_exchange_collision.mp4",
+          "thumbnailPath": "/thumbs/AMGellerFEWBODY21exchangecollision_frame.png",
+          "description": "Binary-single star encounters, first leading to an exchange, second leading to a collision. Potential blue straggler formation channel. Credit: Aaron Geller.",
+          "type": "video",
+          "title": "FEWBODY Binary-Single Exchange+Collision"
+        },
+        {
+          "id": "299",
+          "mediaPath": "/media/AMGeller_FEWBODY_3_2_collision.mp4",
+          "thumbnailPath": "/thumbs/AMGellerFEWBODY32collision_frame.png",
+          "description": "Tripe-binary star encounter, leading to a collision. Possible blue straggler formation channel. Credit: Aaron Geller.",
+          "type": "video",
+          "title": "FEWBODY Triple-Binary Collision"
+        }
+      ]
+    },
+    {
+      "id": "Stars",
+      "label": "Stars",
+      "items": [
+        {
+          "id": "300",
+          "mediaPath": "/media/141105_ALMA_HL_06.mp4",
+          "thumbnailPath": "/thumbs/141105ALMAHL06_frame.png",
+          "description": "Artist's Impression of protoplanetarty disk",
+          "type": "video",
+          "title": "Visualization of Protoplanetary Disk"
+        },
+        {
+          "id": "301",
+          "mediaPath": "/media/141105_ALMA_HL_07.mp4",
+          "thumbnailPath": "/thumbs/141105ALMAHL07_frame.png",
+          "description": "Zoom-in of Alma's image of HL Tau protoplanetary disk in Taurus",
+          "type": "video",
+          "title": "Zoom-in of Protoplanetary Disk"
+        },
+        {
+          "id": "302",
+          "mediaPath": "/media/heic0917b.mp4",
+          "thumbnailPath": "/thumbs/heic0917b_frame.png",
+          "description": "In this animation, the process of proplyds forming within a nebula is illustrated. The bright proplyds, visible as shiny cusps, are illuminated by the star Theta 1 Orionis C, which sets the disc material ablaze. This is, however, both a blessing and a curse. The powerful radiation that lights them up also threatens their very existence, as the disc material, once heated up, is very likely to dissipate and dissolve before planets can form.",
+          "type": "video",
+          "title": "Proplyd Formation Animation "
+        },
+        {
+          "id": "303",
+          "mediaPath": "/media/OrionProplydXRayFlareModel.mp4",
+          "thumbnailPath": "/thumbs/OrionProplydXRayFlareModel_frame.png",
+          "description": "Visualization of proplyd in Orion with an X-ray flare",
+          "type": "video",
+          "title": "Proplyd X-Ray Flare"
+        },
+        {
+          "id": "304",
+          "mediaPath": "/media/SolarSystemBirth-prores1080p-1.mp4",
+          "thumbnailPath": "/thumbs/SolarSystemBirthprores1080p1_frame.png",
+          "description": "Simulation of evolution of protoplanetary disk",
+          "type": "video",
+          "title": "Evolution of Protoplanetary Disk"
+        },
+        {
+          "id": "305",
+          "mediaPath": "/media/AMGeller_NBODY6_CMD.mp4",
+          "thumbnailPath": "/thumbs/AMGellerNBODY6CMD_frame.png",
+          "description": "Credit: Aaron Gellar",
+          "type": "video",
+          "title": "Color-Magnitude Diagram with NBODY6"
+        },
+        {
+          "id": "306",
+          "mediaPath": "/media/LMC_P3_FB_Final_H264.mp4",
+          "thumbnailPath": "/thumbs/LMCP3FBFinalH264_frame.png",
+          "description": "Using data from NASA's Fermi Gamma-ray Space Telescope and other facilities, scientists have found the first gamma-ray binary in another galaxy and the most luminous one ever seen. The dual-star system, dubbed LMC P3, contains a massive star and a crushed stellar core that interact to produce a cyclic flood of gamma rays, the highest-energy form of light. LMC P3 lies within a supernova remnant located in the Large Magellanic Cloud (LMC), a small nearby galaxy about 163,000 light-years away. In 2012, scientists using NASA's Chandra X-ray Observatory found a strong X-ray source within the remnant and showed that it was orbiting a hot, young star many times the sun's mass. The researchers concluded the compact object was either a neutron star or a black hole and classified the system as a high-mass X-ray binary (HMXB).\n",
+          "type": "video",
+          "title": "LMC P3 Gamma-ray Binary"
+        },
+        {
+          "id": "307",
+          "mediaPath": "/media/HH47Outflow.mp4",
+          "thumbnailPath": "/thumbs/HH47Outflow_frame.png",
+          "description": "This video shows the evolution over time of Herbig-Haro object HH 47, a jet expelled from a newborn star in the southern constellation of Vela. The video was made by stitching together observations of HH 47 made in 1994, 1999 and 2008.",
+          "type": "video",
+          "title": "HH 47 Outflow"
+        },
+        {
+          "id": "308",
+          "mediaPath": "/media/Pleiades.CMD.mp4",
+          "thumbnailPath": "/thumbs/Pleiades_frame.png",
+          "description": "Simulation of the time changing color-magnitud diagram of the Pleiades.",
+          "type": "video",
+          "title": "Pleiades Color-Magnitude Diagram SImulation"
+        },
+        {
+          "id": "309",
+          "mediaPath": "/media/Algol_TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/AlgolTB_frame.png",
+          "description": "Animation of the Algol binary system, in the midst of mass transfer.",
+          "type": "video",
+          "title": "Algol Binary with Mass Transfer"
+        },
+        {
+          "id": "310",
+          "mediaPath": "/media/solarneighb_stereo_converted2D.mp4",
+          "thumbnailPath": "/thumbs/solarneighbstereo_frame.png",
+          "description": "View of the solar neighborhood, red M dwarfs are highlighted, and blue circles show known exoplanets",
+          "type": "video",
+          "title": "Stars in the Solar Neighborhood"
+        },
+        {
+          "id": "369",
+          "mediaPath": "/media/Quadruple_Star_System_Light_Curve.mp4",
+          "thumbnailPath": "/thumbs/Quadruple_Star_System_Light_Curve_frame.png",
+          "description": "TIC 114936199 is a quadruple star system with a 12 Day Outer-orbit Eclipse. Two stars orbit each other, and while orbiting a third star, pass in front of a fourth star. Brightness data from the Transiting Exoplanet Survey Satellite (TESS). Credit: Brian P. Powell et al. 2022, ApJ, 938, 133. ",
+          "type": "video",
+          "title": "Quadruple Star System Light Curve"
+        },
+        {
+          "id": "372",
+          "mediaPath": "/media/Sunspot_Evolution_with_Age.mp4",
+          "thumbnailPath": "/thumbs/Sunspot_Evolution_with_Age_frame.png",
+          "description": "As a star ages, its spin and the number and sizes of its spots decreases as shown in this animation of a Sun-like star. From left to right: 100 Myr, 500 Myr, 1 Gyr. Star spots are tied to local magnetic fields that have been amplified by the star's rotation, so the phenomena are connected. Credit: NASA's Goddard Space Flight Center. ",
+          "type": "video",
+          "title": "Sunspot Evolution as Star Ages"
+        }
+      ]
+    },
+    {
+      "id": "Sun",
+      "label": "Sun",
+      "items": [
+        {
+          "id": "311",
+          "mediaPath": "/media/171_ARprofile_best.mp4",
+          "thumbnailPath": "/thumbs/171ARprofilebest_frame.png",
+          "description": "Sun during high time of solar activity.",
+          "type": "video",
+          "title": "Solar Activity 2011 (1)"
+        },
+        {
+          "id": "312",
+          "mediaPath": "/media/171month_big.mp4",
+          "thumbnailPath": "/thumbs/171monthbig_frame.png",
+          "description": "Sun during high time of solar activity.",
+          "type": "video",
+          "title": "Solar Activity 2011 (2)"
+        },
+        {
+          "id": "313",
+          "mediaPath": "/media/201008_304_195_A_1024.mp4",
+          "thumbnailPath": "/thumbs/201008304195A1024_frame.png",
+          "description": "Sun during high time of solar activity.",
+          "type": "video",
+          "title": "Solar Activity 2010 (3)"
+        },
+        {
+          "id": "314",
+          "mediaPath": "/media/active_region.mp4",
+          "thumbnailPath": "/thumbs/activeregion_frame.png",
+          "description": "Closeups of solar activity in 2010.",
+          "type": "video",
+          "title": "Closeups of Solar Activity (1)"
+        },
+        {
+          "id": "315",
+          "mediaPath": "/media/ar_multiwave.mp4",
+          "thumbnailPath": "/thumbs/armultiwave_frame.png",
+          "description": "Closeups of solar activity in 2010.",
+          "type": "video",
+          "title": "Closeups of Solar Activity (2)"
+        },
+        {
+          "id": "316",
+          "mediaPath": "/media/composite20100330.mp4",
+          "thumbnailPath": "/thumbs/composite20100330_frame.png",
+          "description": "Composite image of solar activity in 2010.",
+          "type": "video",
+          "title": "Solar Activity Composite"
+        },
+        {
+          "id": "317",
+          "mediaPath": "/media/flare_stereoa_2010213-214_lrg.mp4",
+          "thumbnailPath": "/thumbs/flarestereoa2010213214lrg_frame.png",
+          "description": "Video of a Solar flare (full-Sun view)",
+          "type": "video",
+          "title": "Solar Flare (1)"
+        },
+        {
+          "id": "318",
+          "mediaPath": "/media/Flares3_zm_best.mp4",
+          "thumbnailPath": "/thumbs/Flares3zmbest_frame.png",
+          "description": "Video of a Solar flare (partial-Sun view)",
+          "type": "video",
+          "title": "Solar Flare (2)"
+        },
+        {
+          "id": "319",
+          "mediaPath": "/media/Hinode_Gband_HD720.mp4",
+          "thumbnailPath": "/thumbs/HinodeGbandHD720_frame.png",
+          "description": "View of a large sunspot in the G-band",
+          "type": "video",
+          "title": "Sunspot (G-band)"
+        },
+        {
+          "id": "320",
+          "mediaPath": "/media/HMIAIAcombo_best.mp4",
+          "thumbnailPath": "/thumbs/HMIAIAcombobest_frame.png",
+          "description": "Shows link between sunspots and solar activity",
+          "type": "video",
+          "title": "Solar Activity and Sunspots in Two Filters"
+        },
+        {
+          "id": "321",
+          "mediaPath": "/media/HowtheSunsMagneticFieldWindsupandLoopsOut.mp4",
+          "thumbnailPath": "/thumbs/HowtheSunsMagneticFieldWindsupandLoopsOut_frame.png",
+          "description": "Tangling of magnetic field leading to heightened solar activity",
+          "type": "video",
+          "title": "Sun's Magnetic Field"
+        },
+        {
+          "id": "322",
+          "mediaPath": "/media/June72011Flare.mp4",
+          "thumbnailPath": "/thumbs/June72011Flare_frame.png",
+          "description": "June 7 2011 Flare",
+          "type": "video",
+          "title": "June 2011 Solar Flare"
+        },
+        {
+          "id": "323",
+          "mediaPath": "/media/loops_may2010_best.mp4",
+          "thumbnailPath": "/thumbs/loopsmay2010best_frame.png",
+          "description": "Solar magnetic field loops from May 2010",
+          "type": "video",
+          "title": "Magnetic Field Loops on Sun"
+        },
+        {
+          "id": "324",
+          "mediaPath": "/media/2017_09_02_20_55_20_2017_09_11_20_14_49_HMI_Int-hq.mp4",
+          "thumbnailPath": "/thumbs/2017090220552020170911201449HMIInthq_frame.png",
+          "description": "Solar flare from September 2017 captured by Solar Dynamic Observatory. Can see photosphere and sunspots. Timelapse with Earth scale for comparison.",
+          "type": "video",
+          "title": "2017 Solar Flare: Photosphere"
+        },
+        {
+          "id": "325",
+          "mediaPath": "/media/2017_09_02_20_55_21_2017_09_11_20_12_33_AIA_171-hq.mp4",
+          "thumbnailPath": "/thumbs/2017090220552120170911201233AIA171hq_frame.png",
+          "description": "Solar flare from September 2017 captured by Solar Dynamic Observatory. Can see corona, loops, and filaments. 171 Angstroms (ultraviolet).",
+          "type": "video",
+          "title": "2017 Solar Flare: Corona"
+        },
+        {
+          "id": "326",
+          "mediaPath": "/media/2017_09_05_23_36_15_2017_09_06_23_26_15_EUVI-A_304__COR2-A-hq.mp4",
+          "thumbnailPath": "/thumbs/2017090523361520170906232615EUVIA304COR2Ahq_frame.png",
+          "description": "Solar flare from September 2017 captured by Solar Dynamic Observatory. Can see the flare itself due to the Sun being blocked by coronograph. 304 Angstroms (ultraviolet).",
+          "type": "video",
+          "title": "2017 Solar Flare with Coronograph"
+        },
+        {
+          "id": "327",
+          "mediaPath": "/media/SlicesOfSDO.1Kx1K.mp4",
+          "thumbnailPath": "/thumbs/SlicesOfSDO_frame.png",
+          "description": "Shows the Sun in all the different filters on the Solar Dynamic Observatory (SDO).",
+          "type": "video",
+          "title": "Slices of Sun from SDO"
+        },
+        {
+          "id": "328",
+          "mediaPath": "/media/multiwave_zm_sm.mp4",
+          "thumbnailPath": "/thumbs/multiwavezmsm_frame.png",
+          "description": "Closeup of the Sun as seen from different filters on the Solar Dynamic Observatory (SDO). Different filters target different atmospheric heights and temperatures on the Sun.",
+          "type": "video",
+          "title": "Multiwavelength View of Sun"
+        },
+        {
+          "id": "329",
+          "mediaPath": "/media/1080trailer_updated_animation2_youtube_1080.mp4",
+          "thumbnailPath": "/thumbs/1080trailerupdatedanimation2youtube1080_frame.png",
+          "description": "Animation of Parker Solar Probe, which is \"touching the Sun\" and studying the corona of the Sun.",
+          "type": "video",
+          "title": "Parker Solar Probe Animation"
+        },
+        {
+          "id": "330",
+          "mediaPath": "/media/MissionTrajectory.mp4",
+          "thumbnailPath": "/thumbs/MissionTrajectory_frame.png",
+          "description": "",
+          "type": "video",
+          "title": "Parker Solar Probe Mission Trajectory"
+        },
+        {
+          "id": "331",
+          "mediaPath": "/media/SwingbySunCloseUp.mp4",
+          "thumbnailPath": "/thumbs/SwingbySunCloseUp_frame.png",
+          "description": "Parker Solar Probe will fly within 4 million miles of the Sun, into the Sun's atmosphere to \"touch\" the Sun.",
+          "type": "video",
+          "title": "Parker Solar Probe Animation Near the Sun"
+        },
+        {
+          "id": "332",
+          "mediaPath": "/media/Sun.mp4",
+          "thumbnailPath": "/thumbs/Sun_frame.png",
+          "description": "Info about the Sun (from solar system gallery)",
+          "type": "video",
+          "title": "Sun Info"
+        },
+        {
+          "id": "333",
+          "mediaPath": "/media/Coronal_Loops-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/CoronalLoopsTBH264_frame.png",
+          "description": "Magnetic field lines emanating out of the Sun (rendered in 3D)",
+          "type": "video",
+          "title": "Coronal Loops"
+        },
+        {
+          "id": "334",
+          "mediaPath": "/media/EUVI_171_Angstroms-TB2_converted2D.mp4",
+          "thumbnailPath": "/thumbs/EUVI171AngstromsTB2_frame.png",
+          "description": "UV movie of Sun at 171 angstroms",
+          "type": "video",
+          "title": "The Sun in UV (171 Angstroms)"
+        },
+        {
+          "id": "335",
+          "mediaPath": "/media/EUVI_195_Angstroms-TB_converted2D.mp4",
+          "thumbnailPath": "/thumbs/EUVI195AngstromsTB_frame.png",
+          "description": "UV movie of Sun at 195 angstroms",
+          "type": "video",
+          "title": "The Sun in UV (195 Angstroms)"
+        },
+        {
+          "id": "336",
+          "mediaPath": "/media/STEREO-EUVI_171_Angstroms_Full_Disk_View-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/STEREOEUVI171AngstromsFullDiskViewTBH264_frame.png",
+          "description": "STEREO (Solar TErrestrial RElations Observatory) is a solar observation mission. Two nearly identical spacecraft were launched in 2006 into orbits around the Sun that cause them to respectively pull farther ahead of and fall gradually behind the Earth. This enabled stereoscopic imaging of the Sun and solar phenomena, such as coronal mass ejections. Filter at 304 nm (60,000-80,000 K).",
+          "type": "video",
+          "title": "STEREO View of Sun in Ultraviolet (304 nm)"
+        },
+        {
+          "id": "337",
+          "mediaPath": "/media/STEREO-EUVI_284_Angstroms_Full_Disk_View-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/STEREOEUVI284AngstromsFullDiskViewTBH264_frame.png",
+          "description": "STEREO (Solar TErrestrial RElations Observatory) is a solar observation mission. Two nearly identical spacecraft were launched in 2006 into orbits around the Sun that cause them to respectively pull farther ahead of and fall gradually behind the Earth. This enabled stereoscopic imaging of the Sun and solar phenomena, such as coronal mass ejections. Filter at 284 Angstroms (2,500,500 K).",
+          "type": "video",
+          "title": "STEREO View of Sun in Ultraviolet (284 Angstroms)"
+        },
+        {
+          "id": "338",
+          "mediaPath": "/media/STEREO-EUVI_304-TB-H264_converted2D.mp4",
+          "thumbnailPath": "/thumbs/STEREOEUVI304TBH264_frame.png",
+          "description": "STEREO (Solar TErrestrial RElations Observatory) is a solar observation mission. Two nearly identical spacecraft were launched in 2006 into orbits around the Sun that cause them to respectively pull farther ahead of and fall gradually behind the Earth. This enabled stereoscopic imaging of the Sun and solar phenomena, such as coronal mass ejections. Filter at 304 Angstroms ( 1,000,000 K).",
+          "type": "video",
+          "title": "STEREO View of Sun in Ultraviolet (304 Angstroms)"
+        }
+      ]
+    },
+    {
+      "id": "Transients",
+      "label": "Transients",
+      "items": [
+        {
+          "id": "339",
+          "mediaPath": "/media/Fermi_1year_grbb.mp4",
+          "thumbnailPath": "/thumbs/Fermi1yeargrbb_frame.png",
+          "description": "Fermi Gamma Ray Space Telescope",
+          "type": "video",
+          "title": "Gamma-ray Bursts from Fermi over the First Year"
+        },
+        {
+          "id": "340",
+          "mediaPath": "/media/8km_16o40_rpv1_dens_left_1280x1024.mp4",
+          "thumbnailPath": "/thumbs/8km16o40rpv1densleft1280x1024_frame.png",
+          "description": "Simulation of Type Ia SNe ignition at the center of a white dwarf",
+          "type": "video",
+          "title": "Type Ia Supernova Simulation (Center Ignition)"
+        },
+        {
+          "id": "341",
+          "mediaPath": "/media/8km_63_128o0_1_PureDef_rpv1_dens_1600x1200_left.mp4",
+          "thumbnailPath": "/thumbs/8km63128o01PureDefrpv1dens1600x1200left_frame.png",
+          "description": "Simulation of Type 1a supernova ignitrion, occuring at 63 points within a 128 km radius sphere inside the white dwarf.",
+          "type": "video",
+          "title": "Type Ia Supernova Simulation (Multiple Ignition)"
+        },
+        {
+          "id": "342",
+          "mediaPath": "/media/M82-Animate.mp4",
+          "thumbnailPath": "/thumbs/M82Animate_frame.png",
+          "description": "Images of M82 before and after detection of supernova SN 2014J. The before image taken by Swift UVOT shows galaxy M82 before the explosion and combines data acquired between 2007 and 2013. Mid-ultraviolet light is shown in blue, near-UV light in green, and visible light in red. The image is 17 arcminutes across, or slightly more than half the apparent diameter of a full moon.",
+          "type": "video",
+          "title": "Supernova in M82"
+        },
+        {
+          "id": "343",
+          "mediaPath": "/media/M82_SN_Brightness_Record.mp4",
+          "thumbnailPath": "/thumbs/M82SNBrightnessRecord_frame.png",
+          "description": "Lightcurve of supernova in M82 that occurred in 2014.",
+          "type": "video",
+          "title": "M82 Supernova Lightcurve"
+        },
+        {
+          "id": "344",
+          "mediaPath": "/media/s15_l19_entr_3d.mp4",
+          "thumbnailPath": "/thumbs/s15l19entr3d_frame.png",
+          "description": "Simulation of Core-Collapse Supernova",
+          "type": "video",
+          "title": "Simulation of Core-Collapse Supernova"
+        },
+        {
+          "id": "345",
+          "mediaPath": "/media/s15_leak_3d_volRend3.mp4",
+          "thumbnailPath": "/thumbs/s15leak3dvolRend3_frame.png",
+          "description": "Simulation of Stellar Core in Core-Collapse Supernova",
+          "type": "video",
+          "title": "Simulation of Stellar Core in Core-Collapse Supernova"
+        },
+        {
+          "id": "346",
+          "mediaPath": "/media/sn1987adates.mp4",
+          "thumbnailPath": "/thumbs/sn1987adates_frame.png",
+          "description": "Timelapse of Supernovae 1987a from 1994-2006",
+          "type": "video",
+          "title": "Supernova 1987a Over Time"
+        },
+        {
+          "id": "347",
+          "mediaPath": "/media/SupernovaSonata-HD.mp4",
+          "thumbnailPath": "/thumbs/SupernovaSonataHD_frame.png",
+          "description": "Supernovae going off in multiple fields of view of the Canada-France-Hawaii Telescope. Supernovae are sonified.",
+          "type": "video",
+          "title": "Supernovae from the CFHT"
+        },
+        {
+          "id": "348",
+          "mediaPath": "/media/type1A_tracked_cmprs.mp4",
+          "thumbnailPath": "/thumbs/type1Atrackedcmprs_frame.png",
+          "description": "Accretion on to a white dwarf. (A clip from \"The Searcher\" by Adler Planetarium.) The single degenerate channel for Type Ia supernova progenitors involves a white dwarf accreting material from a red giant companion. The material accreted surrounds the white dwarf in a disk.",
+          "type": "video",
+          "title": "Supernovae Type Ia Formation Animation"
+        }
+      ]
+    },
+    {
+      "id": "Defaults",
+      "label": "Defaults",
+      "items": [
+        {
+          "title": "Idle Screen",
+          "type": "image",
+          "mediaPath": "/defaults/idle.jpg",
+          "thumbnailPath": "/thumbs/idle.jpg",
+          "description": "Default still image shown whenever playback is stopped.",
+          "id": "404"
+        }
+      ]
+    }
+  ]
+}
